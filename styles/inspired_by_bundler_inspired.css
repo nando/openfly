@@ -33,7 +33,7 @@ header h2{
   margin-top:5px;
 }
 nav{
-  background:rgba(255,255,255,.35);
+  background:url("../images/section_bg.png");
   font-size:85%;
   position:fixed;
   left:15px;
@@ -50,7 +50,7 @@ nav ul{
   padding-left:18px;
 }
 div.article {
-  background:rgba(255,255,255,.35);
+  background:url("../images/section_bg.png");
   padding:10px 30px 10px 30px;
   margin-top:60px;
   width:700px;
