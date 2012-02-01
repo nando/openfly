@@ -1,0 +1,116 @@
+---
+  layout: default
+---
+<form accept-charset="UTF-8" action="http://morning-planet-6150.herokuapp.com/pilots" class="new_pilot" id="new_pilot" method="post">
+  <div style="margin:0;padding:0;display:inline">
+    <input name="utf8" type="hidden" value="&#x2713;" />
+  </div>
+  <fieldset>
+  <h3>Datos personales</h3>
+
+  <div class="field">
+    <label for="pilot_Nombre">Nombre</label><br />
+    <input id="pilot_name" name="pilot[name]" size="30" type="text" />
+  </div>
+  <div class="field">
+    <label for="pilot_Apellidos">Apellidos</label><br />
+    <input id="pilot_surname" name="pilot[surname]" size="30" type="text" />
+  </div>
+
+  <div class="field">
+    <label for="pilot_DNI/Pasaporte">Dni/pasaporte</label><br />
+    <input id="pilot_passport" name="pilot[passport]" size="30" type="text" />
+  </div>
+  <div class="field">
+    <label for="pilot_Fecha de nacimiento">Fecha de nacimiento</label><br />
+    <input id="pilot_birthdate" name="pilot[birthdate]" size="30" type="text" />
+  </div>
+
+  <div class="field">
+    <label for="pilot_Nacionalidad">Nacionalidad</label><br />
+    <input id="pilot_nationality" name="pilot[nationality]" size="30" type="text" />
+  </div>
+  <div class="field">
+    <label for="pilot_Talla de camiseta">Talla de camiseta</label><br />
+    <input id="pilot_tshirt_size" name="pilot[tshirt_size]" size="30" type="text" />
+  </div>
+
+  <div class="field">
+    <label for="pilot_Club">Club</label><br />
+    <input id="pilot_club_name" name="pilot[club_name]" size="30" type="text" />
+  </div>
+  </fieldset>
+  <fieldset>
+  <h3>Datos de contacto</h3>
+  <div class="field">
+
+    <label for="pilot_Dirección">Dirección</label><br />
+    <input id="pilot_address" name="pilot[address]" size="30" type="text" />
+  </div>
+  <div class="field">
+    <label for="pilot_Ciudad">Ciudad</label><br />
+    <input id="pilot_city" name="pilot[city]" size="30" type="text" />
+  </div>
+  <div class="field">
+
+    <label for="pilot_Código Postal">Código postal</label><br />
+    <input id="pilot_zip_code" name="pilot[zip_code]" size="30" type="text" />
+  </div>
+  <div class="field">
+    <label for="pilot_País">País</label><br />
+    <input id="pilot_country" name="pilot[country]" size="30" type="text" />
+  </div>
+  <div class="field">
+
+    <label for="pilot_Teléfono fijo">Teléfono fijo</label><br />
+    <input id="pilot_phone" name="pilot[phone]" size="30" type="text" />
+  </div>
+  <div class="field">
+    <label for="pilot_Teléfono móvil">Teléfono móvil</label><br />
+    <input id="pilot_mobile_phone" name="pilot[mobile_phone]" size="30" type="text" />
+  </div>
+  <div class="field">
+
+    <label for="pilot_Correo electrónico">Correo electrónico</label><br />
+    <input id="pilot_email" name="pilot[email]" size="30" type="text" />
+  </div>
+  </fieldset>
+  <fieldset>
+  <h3>Tipo de Ala</h3>
+  <div class="field">
+    <label for="pilot_Clase">Clase</label><br />
+
+    <input id="pilot_glider_class" name="pilot[glider_class]" size="30" type="text" />
+  </div>
+  <div class="field">
+    <label for="pilot_Fabricante">Fabricante</label><br />
+    <input id="pilot_glider_manuf" name="pilot[glider_manuf]" size="30" type="text" />
+  </div>
+  <div class="field">
+    <label for="pilot_Modelo">Modelo</label><br />
+
+    <input id="pilot_glider_model" name="pilot[glider_model]" size="30" type="text" />
+  </div>
+  </fieldset>
+  <fieldset>
+  <h3>Contacto de emergencia</h3>
+  <div class="field">
+    <label for="pilot_Nombre completo">Nombre completo</label><br />
+    <input id="pilot_contact_name" name="pilot[contact_name]" size="30" type="text" />
+
+  </div>
+  <div class="field">
+    <label for="pilot_Relación contigo">Relación contigo</label><br />
+    <input id="pilot_contact_relation" name="pilot[contact_relation]" size="30" type="text" />
+  </div>
+  <div class="field">
+    <label for="pilot_Teléfono">Teléfono</label><br />
+    <input id="pilot_contact_phone" name="pilot[contact_phone]" size="30" type="text" />
+
+  </div>
+  <div class="actions">
+    <input id="pilot_submit" name="commit" type="submit" value="Create Pilot" />
+  </div>
+  </fieldset>
+</form>
+
