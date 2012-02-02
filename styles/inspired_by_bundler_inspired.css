@@ -48,6 +48,7 @@ nav{
 nav ul{
   list-style:none;
   padding-left:18px;
+  margin-left:0px;
 }
 div.article {
   background:url("../images/section_bg.png");
