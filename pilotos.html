@@ -4,10 +4,110 @@
   <h2>Pilotos inscritos</h2>
 
   <script src="javascript/jquery.min.js" type="text/javascript"></script>
+  <script src="javascript/jstween.min.js" type="text/javascript"></script>
   <script type="text/javascript">
-    $(document).ready(function(){
-        alert("hi!");
+  $(document).ready(function(){
+    $.ajax({
+      url: 'http://morning-planet-6150.herokuapp.com/pilots.json',
+      type: 'GET',
+      crossDomain: true,
+      success: function(pilots) {
+        var tbody = $('table.pilots tbody');
+        tbody.html('');
+        for(i=0;i<pilots.length;i++){
+          tbody.append("<tr><td>"+pilots[i].name+" "+pilots[i].surname+"</td></tr>"+
+                        "<td>"+pilots[i].glider+"</td>"+
+                        "<td>"+pilots[i].paid+"</td></tr>");
+    
+        }
+      }
     });
+   //var effect1 = 'easeIn';
+   //var effect2 = 'easeOut';
+   var effect1 = 'sineOut';
+   var effect2 = 'sineIn';
+   var glider = $('<img class="glider" src="images/glider.png"/>');
+   $('body').append(glider);
+   glider.tween({
+     left:{
+        start: 0,
+        stop: 500,
+        time: 0,
+        duration: 5,
+        effect: effect1
+     },
+     top: {
+        start:90,
+        stop: 100,
+        time: 0,
+        duration: 4.9,
+        effect: effect1
+     },
+     width: {
+        start: 5,
+        stop: 110,
+        time: 0,
+        duration: 5,
+        effect: effect1
+     },
+     height: {
+        start: 2,
+        stop: 49,
+        time: 0,
+        duration: 5,
+        effect: effect1
+     },
+     onStop: function(glider) {
+       $(glider).tween({
+         left:{
+            stop: 1300,
+            time: 0,
+            duration: 12,
+            effect: effect2
+         },
+         top: {
+            stop: 50,
+            time: 0.2,
+            duration: 12,
+            effect: effect2
+         },
+         width: {
+            stop: 0,
+            time: 0,
+            duration: 8,
+            effect: 'linear'
+         },
+         height: {
+            stop: 0,
+            time: 0,
+            duration: 8,
+            effect: 'linear'
+         }
+       });
+     }
+
+   });
+   $.play();
+ 
+  });
+
+
   </script>
+
+  <table class="pilots">
+    <thead>
+      <tr>
+        <th>Nombre y apellidos</th>
+        <th>Cometa</th>
+        <th>Pago</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="spinner">
+        <td colspan="3"><img alt="spinner" src="images/ajax-loader.gif"/></td>
+      </tr>
+    </tbody>
+  </table>
+
 
 
