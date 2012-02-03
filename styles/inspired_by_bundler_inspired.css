@@ -57,7 +57,7 @@ nav ul{
 }
 div.article {
   background:url("../images/section_bg.png");
-  padding:10px 30px 30px 30px;
+  padding:10px 20px 30px 30px;
   margin-top:60px;
   width:700px;
   border-radius:5px;
@@ -75,6 +75,17 @@ fieldset {
   float:left;
   border-radius:5px;
   -moz-border-radius: 5px 5px 5px 5px;
+}
+form#new_pilot fieldset div.field label.error {
+  display: none!important;
+}
+form#new_pilot fieldset div.field .error {
+  margin-top: 2px;
+  border: 1px red solid;
+  background-color: #ffa1b1;
+}
+form div.fsrow {
+  clear:left;
 }
 fieldset h3 {
   margin-top: 0.6em;
