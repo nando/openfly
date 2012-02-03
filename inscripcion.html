@@ -1,6 +1,12 @@
 ---
   layout: default
 ---
+  <script src="javascript/jquery.min.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    $(window).load(function(){
+      $('form input#pilot_name').focus();
+    });
+  </script>
 <h2>Formulario de inscripción</h2>
 <form accept-charset="UTF-8" action="http://morning-planet-6150.herokuapp.com/pilots" class="new_pilot" id="new_pilot" method="post">
   <div style="margin:0;padding:0;display:inline">
@@ -10,16 +16,16 @@
   <h3>Datos personales</h3>
 
   <div class="field">
-    <label for="pilot_Nombre">Nombre:</label><br />
+    <label for="pilot_name">Nombre:</label><br />
     <input id="pilot_name" name="pilot[name]" size="30" type="text" />
   </div>
   <div class="field">
-    <label for="pilot_Apellidos">Apellidos:</label><br />
+    <label for="pilot_surname">Apellidos:</label><br />
     <input id="pilot_surname" name="pilot[surname]" size="30" type="text" />
   </div>
 
   <div class="field">
-    <label for="pilot_DNI/Pasaporte">Dni/pasaporte:</label><br />
+    <label for="pilot_passport">DNI o pasaporte:</label><br />
     <input id="pilot_passport" name="pilot[passport]" size="30" type="text" />
   </div>
 
@@ -28,8 +34,15 @@
     <input id="pilot_nationality" name="pilot[nationality]" size="30" type="text" />
   </div>
   <div class="field">
-    <label for="pilot_Talla de camiseta">Talla de camiseta:</label><br />
-    <input id="pilot_tshirt_size" name="pilot[tshirt_size]" size="30" type="text" />
+    <label for="pilot_tshirt_size">Talla de camiseta:</label><br />
+    <select name="pilot[tshirt_size]" id="pilot_tshirt_size">
+    <option value="talla/size1">Elige tu talla...</option>
+    <option value="S">S</option>
+    <option value="M">M</option>
+    <option value="L">L</option>
+    <option value="XL">XL</option>
+    </select>
+
   </div>
 
   <div class="field">
@@ -70,9 +83,14 @@
   <fieldset>
   <h3>Tipo de Ala</h3>
   <div class="field">
-    <label for="pilot_Clase">Clase:</label><br />
+    <label for="pilot_class">Clase:</label><br />
 
-    <input id="pilot_glider_class" name="pilot[glider_class]" size="30" type="text" />
+    <select name="pilot[glider_class]" id="pilot_class">
+    <option value="talla/size1">Elige el tipo de ala...</option>
+    <option value="1">Clase 1 / Calva</option>
+    <option value="5">Clase 5 / Rígida</option>
+    <option value="S">Sport / Mástil</option>
+    </select>
   </div>
   <div class="field">
     <label for="pilot_Fabricante">Fabricante:</label><br />

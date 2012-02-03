@@ -57,7 +57,7 @@ nav ul{
 }
 div.article {
   background:url("../images/section_bg.png");
-  padding:10px 30px 10px 30px;
+  padding:10px 30px 30px 30px;
   margin-top:60px;
   width:700px;
   border-radius:5px;
@@ -70,7 +70,7 @@ section h2 {
 fieldset {
   padding: 0px 16px 20px 16px;
   background: none repeat scroll 0 0 #e2d7c1;
-  margin:20px;
+  margin:10px;
   width: 260px;
   float:left;
   border-radius:5px;
@@ -78,12 +78,22 @@ fieldset {
 }
 fieldset h3 {
   margin-top: 0.6em;
-  margin-bottom: 0.5em;
+  margin-bottom: 0.3em;
   border-bottom:1px black solid;
 }
+div.field {
+  margin-top: 0.4em;
+}
+form input, form select {
+  font-size: 110%; 
+  width: 280px;
+}
+form input:focus {
+  background: #e2eff5;
+}
 div.actions input{
-  margin: 5px 0px 10px 258px;
-  padding: 10px;
+  margin: 15px 0px 5px 208px;
+  padding: 5px;
   font-size: 114%; 
   color:#043042;
   font-weight: bold; 
@@ -91,7 +101,7 @@ div.actions input{
 table {
   width: 100%;
 }
-table.results td {
+table td {
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -102,8 +112,16 @@ table th {
   text-align: left;
   padding-left: 10px;
   background-color: #e2d7c1;
-  border-radius:5px;
-  -moz-border-radius:5px;
+  border-radius:3px;
+  -moz-border-radius:3px;
+}
+table.pilots tr:hover {
+  background: #a2f7e5;
+}
+table.pilots td {
+  background-color: #d2d7ff;
+  border-radius:3px;
+  -moz-border-radius:3px;
 }
 table tr.spinner td {
   text-align: center;
