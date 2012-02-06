@@ -68,13 +68,22 @@ section h2 {
   padding-bottom:5px
 }
 fieldset {
+  
   padding: 0px 16px 20px 16px;
   background: none repeat scroll 0 0 #e2d7c1;
   margin:10px;
   width: 260px;
-  float:left;
   border-radius:5px;
   -moz-border-radius: 5px 5px 5px 5px;
+
+  min-height: 250px;
+  display: -moz-inline-stack;
+  display: inline-block;
+  vertical-align: top;
+  zoom: 1;
+  *display: inline;
+  _height: 250px;
+
 }
 form#new_pilot fieldset div.field label.error {
   display: none!important;
@@ -84,12 +93,14 @@ form#new_pilot fieldset div.field .error {
   border: 1px red solid;
   background-color: #ffa1b1;
 }
-form div.fsrow {
-  clear:left;
-}
-fieldset h3 {
+h3 {
   margin-top: 0.6em;
   margin-bottom: 0.3em;
+}
+p {
+  margin-top: 0.1em;
+}
+fieldset h3 {
   border-bottom:1px black solid;
 }
 div.field {
@@ -100,7 +111,10 @@ form input, form select {
   width: 280px;
 }
 form input:focus {
-  background: #e2eff5;
+  background: #d2dff5;
+}
+div.actions {
+  text-align: center;
 }
 div.actions input{
   margin: 15px 0px 5px 208px;

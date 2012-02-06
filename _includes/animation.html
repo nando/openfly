@@ -1,0 +1,92 @@
+  <script src="javascript/jquery.min.js" type="text/javascript"></script>
+  <script src="javascript/jstween.min.js" type="text/javascript"></script>
+  <script type="text/javascript">
+  $(window).load(function(){
+   var effect = Math.floor(Math.random()*6);
+   if(effect==0) {
+     var effect1 = 'easeIn';
+     var effect2 = 'easeOut';
+   } else if (effect==1){
+     var effect1 = 'expoIn';
+     var effect2 = 'expoOut';
+   } else if (effect==2){
+     var effect1 = 'circOut';
+     var effect2 = 'circIn';
+   } else {
+     var effect1 = 'sineOut';
+     var effect2 = 'sineIn';
+   }
+   var glider = $('<img class="glider" src="images/glider.png"/>');
+   $('body').append(glider);
+   glider.tween({
+     opacity: {
+       start: 0,
+       stop: 100,
+       duration: 6
+     },
+     left:{
+        start: 0,
+        stop: 500,
+        time: 0,
+        duration: 10,
+        effect: effect1
+     },
+     top: {
+        start:90,
+        stop: 100,
+        time: 0,
+        duration: 9.9,
+        effect: effect1
+     },
+     width: {
+        start: 5,
+        stop: 110,
+        time: 0,
+        duration: 10,
+        effect: effect1
+     },
+     height: {
+        start: 2,
+        stop: 49,
+        time: 0,
+        duration: 10,
+        effect: effect1
+     },
+     onStop: function(glider) {
+       $(glider).tween({
+         opacity: {
+           start: 100,
+           stop: 0,
+           time: 4,
+           duration: 12
+         },
+         left:{
+            stop: 1300,
+            time: 0,
+            duration: 22,
+            effect: effect2
+         },
+         top: {
+            stop: 50,
+            time: 0.2,
+            duration: 22,
+            effect: effect2
+         },
+         width: {
+            stop: 0,
+            time: 0,
+            duration: 18,
+            effect: 'linear'
+         },
+         height: {
+            stop: 0,
+            time: 0,
+            duration: 18,
+            effect: 'linear'
+         }
+       });
+     }
+   });
+   $.play();
+  });
+  </script>
