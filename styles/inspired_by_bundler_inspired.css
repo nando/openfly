@@ -68,11 +68,10 @@ section h2 {
   padding-bottom:5px
 }
 fieldset {
-  
   padding: 0px 16px 20px 16px;
   background: none repeat scroll 0 0 #e2d7c1;
   margin:10px;
-  width: 260px;
+  width: 284px;
   border-radius:5px;
   -moz-border-radius: 5px 5px 5px 5px;
 
@@ -117,7 +116,6 @@ div.actions {
   text-align: center;
 }
 div.actions input{
-  margin: 15px 0px 5px 208px;
   padding: 5px;
   font-size: 114%; 
   color:#043042;
