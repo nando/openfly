@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="CompeGPS" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="http://www.compegps.com">
+      <text>CompeGPS TEAM, SL</text>
+    </link>
+    <time>2011-03-23T16:06:54Z</time>
+    <bounds maxlat="40.451618" maxlon="-4.208127" minlat="39.859776" minlon="-5.690712"/>
+  </metadata>
+  <wpt lat="40.228405" lon="-4.881338">
+    <ele>439.9</ele>
+    <name>A01044</name>
+    <desc>1 AT PEDRO BERNARDO</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.306217" lon="-4.684984">
+    <ele>680.0</ele>
+    <name>A02068</name>
+    <desc>1 AT PIEDRALAVES</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.229332" lon="-4.751533">
+    <ele>700.0</ele>
+    <name>A03070</name>
+    <desc>1 AT IGLESUELA</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.088688" lon="-4.795122">
+    <ele>580.0</ele>
+    <name>A04058</name>
+    <desc>1 AT MARRUPE CRUCE</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.041718" lon="-5.474033">
+    <ele>300.1</ele>
+    <name>A05030</name>
+    <desc>1 AT TIETAR</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.246906" lon="-4.789621">
+    <ele>430.1</ele>
+    <name>A06043</name>
+    <desc>1 AT IGLESUELA AERODROMO</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.110424" lon="-4.941124">
+    <ele>550.0</ele>
+    <name>A07055</name>
+    <desc>1 AT MONTESCLAROS</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="39.931725" lon="-5.162455">
+    <ele>370.0</ele>
+    <name>A08037</name>
+    <desc>1 AT OROPESA</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.007538" lon="-4.823360">
+    <ele>409.9</ele>
+    <name>A09041</name>
+    <desc>1 AT TALAVERA GASOLINERA</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.180302" lon="-4.853853">
+    <ele>450.0</ele>
+    <name>A10045</name>
+    <desc>1 AT BUENAVENTURA</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="39.993290" lon="-4.741658">
+    <ele>370.0</ele>
+    <name>A11037</name>
+    <desc>1 AT CAZALEGAS</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="39.883575" lon="-4.351251">
+    <ele>510.1</ele>
+    <name>A12051</name>
+    <desc>1 AT PUEBLA MONTALVAN</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.182816" lon="-4.731866">
+    <ele>780.0</ele>
+    <name>A13078</name>
+    <desc>1 AT ALMENDRAL CAÑADA</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.078259" lon="-4.380190">
+    <ele>489.9</ele>
+    <name>A14049</name>
+    <desc>1 AT MAQUEDA GASOLINERA</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.180374" lon="-5.039601">
+    <ele>409.9</ele>
+    <name>A15041</name>
+    <desc>1 AT CRUCE ASP TAL</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="39.989056" lon="-4.966190">
+    <ele>480.1</ele>
+    <name>A16048</name>
+    <desc>1 AT VELADA DEPOSITO</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.267487" lon="-4.574256">
+    <ele>735.0</ele>
+    <name>A17064</name>
+    <desc>1 AT SOTILLO ADRADA sur</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.158661" lon="-4.794487">
+    <ele>749.9</ele>
+    <name>A18075</name>
+    <desc>1 AT NAVAMORCUENDE</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="39.960262" lon="-4.200020">
+    <ele>500.0</ele>
+    <name>A19050</name>
+    <desc>1 AT RIELVES</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.127358" lon="-5.225620">
+    <ele>380.1</ele>
+    <name>A22038</name>
+    <desc>1 AT CANDELEDA</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.335983" lon="-4.470084">
+    <ele>669.9</ele>
+    <name>A24067</name>
+    <desc>1 AT NAVAHONDILLA urb</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.098026" lon="-5.494130">
+    <ele>460.1</ele>
+    <name>A31046</name>
+    <desc>1 AT VALVERDE VERA</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.211617" lon="-4.386746">
+    <ele>520.0</ele>
+    <name>A43052</name>
+    <desc>1 AT ALMOROX</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="39.984917" lon="-5.605917">
+    <ele>290.0</ele>
+    <name>B01029</name>
+    <desc>1 TALAYUELA</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.268162" lon="-4.844302">
+    <ele>719.9</ele>
+    <name>B05072</name>
+    <desc>1 TORRE INCENDIOS</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.210636" lon="-4.962979">
+    <ele>799.9</ele>
+    <name>B07080</name>
+    <desc>1 ABANTERA</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.205826" lon="-4.929815">
+    <ele>439.9</ele>
+    <name>B08044</name>
+    <desc>1 LANZAHITA FRONTON</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="39.904233" lon="-5.691867">
+    <ele>278.0</ele>
+    <name>B09028</name>
+    <desc>1 NAVALMORAL GASOLINERA</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.255928" lon="-5.019141">
+    <ele>580.0</ele>
+    <name>B09058</name>
+    <desc>1 MOMBELTRAN CASTILLO</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.185524" lon="-4.996919">
+    <ele>400.0</ele>
+    <name>B14040</name>
+    <desc>1 LA HIGUERILLA</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.154987" lon="-5.019223">
+    <ele>380.1</ele>
+    <name>B16038</name>
+    <desc>1 TIETAR PUENTE</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.286625" lon="-4.726745">
+    <ele>510.1</ele>
+    <name>B19051</name>
+    <desc>1 CASAVIEJA GASOLINERA</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.297485" lon="-4.641086">
+    <ele>619.9</ele>
+    <name>B20062</name>
+    <desc>1 ADRADA CASTILLO</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.238682" lon="-4.603349">
+    <ele>690.1</ele>
+    <name>B24069</name>
+    <desc>1 HIGUERA DUEÑAS pueblo</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.310463" lon="-4.515096">
+    <ele>849.9</ele>
+    <name>B25085</name>
+    <desc>1 MONASTERIO SEMIA</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.237450" lon="-4.920983">
+    <ele>760.0</ele>
+    <name>B26076</name>
+    <desc>1 CAMPO FUTBOL</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.358379" lon="-4.409911">
+    <ele>700.0</ele>
+    <name>B27070</name>
+    <desc>1 S MARTIN VALDEIGLESIAS</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.278904" lon="-4.295161">
+    <ele>500.0</ele>
+    <name>B28050</name>
+    <desc>1 VILLA PRADO</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.346993" lon="-4.443419">
+    <ele>650.0</ele>
+    <name>B29065</name>
+    <desc>1 TIEMBLO CRUCE</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.323021" lon="-4.626086">
+    <ele>1400.0</ele>
+    <name>B30140</name>
+    <desc>1 ADRADA TERMICA</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.241295" lon="-4.915575">
+    <ele>819.9</ele>
+    <name>B33082</name>
+    <desc>1 PB IGLESIA</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.209385" lon="-5.080217">
+    <ele>749.9</ele>
+    <name>B41070</name>
+    <desc>1 ARENAS SAN PEDRO</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.149117" lon="-5.340024">
+    <ele>400.0</ele>
+    <name>B42040</name>
+    <desc>1 MADRIGAL VERA</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.231342" lon="-4.901190">
+    <ele>550.0</ele>
+    <name>B44055</name>
+    <desc>1 PB BASURERO</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.192150" lon="-5.121533">
+    <ele>660.0</ele>
+    <name>B58066</name>
+    <desc>1 CRUCE GUISANDO</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.207615" lon="-5.018610">
+    <ele>700.0</ele>
+    <name>B59070</name>
+    <desc>1 ABANTERA CRUCE</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.290966" lon="-4.823485">
+    <ele>1300.1</ele>
+    <name>B60130</name>
+    <desc>1 MIJARES</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.325760" lon="-4.723631">
+    <ele>1200.1</ele>
+    <name>B61120</name>
+    <desc>1 PIEDRALAVES</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.069333" lon="-5.088167">
+    <ele>394.0</ele>
+    <name>B98039</name>
+    <desc>1 NAVALCAN</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.058167" lon="-5.057000">
+    <ele>400.0</ele>
+    <name>B98040</name>
+    <desc>1 PARRILLAS</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.174450" lon="-5.052867">
+    <ele>510.0</ele>
+    <name>B98051</name>
+    <desc>1 CUEVAS AGUILA</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.100000" lon="-4.976667">
+    <ele>521.0</ele>
+    <name>B98052</name>
+    <desc>1 ALDEA ARANGO</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.255474" lon="-4.906204">
+    <ele>1125.1</ele>
+    <name>D01125</name>
+    <desc>1 DESPEG PB OESTE</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.250858" lon="-4.888968">
+    <ele>999.9</ele>
+    <name>D02100</name>
+    <desc>1 DESPEG PB ESTE</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.243836" lon="-4.894709">
+    <ele>940.0</ele>
+    <name>D03094</name>
+    <desc>1 DESPEG PB SUR</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.154736" lon="-4.743076">
+    <ele>1320.0</ele>
+    <name>D08132</name>
+    <desc>1 DESPEG REAL S VICENTE</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.447605" lon="-4.511002">
+    <ele>1320.0</ele>
+    <name>D09132</name>
+    <desc>5 DESPEG ARREBATACAPAS</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+  <wpt lat="40.326775" lon="-4.679132">
+    <ele>1200.1</ele>
+    <name>D11120</name>
+    <desc>1 DESPEG PIEDRALAVES</desc>
+    <sym>Red Booble</sym>
+  </wpt>
+</gpx>
