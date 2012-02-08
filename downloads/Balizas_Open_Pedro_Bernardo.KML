@@ -16,14 +16,14 @@
     <Style id="waypoint_h">
       <IconStyle>
         <Icon>
-          <href>http://maps.gstatic.com/mapfiles/ms2/micons/grn-pushpin.png</href>
+          <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="waypoint_d">
       <IconStyle>
         <Icon>
-          <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-pushpin.png</href>
+          <href>http://maps.gstatic.com/mapfiles/ms2/micons/grn-pushpin.png</href>
         </Icon>
       </IconStyle>
     </Style>
