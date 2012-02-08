@@ -153,6 +153,13 @@ table tr.spinner td {
 
 footer {margin-left:200px;width:700px}
 
+body.balizas div.article {
+  width:90%;
+}
+#map {
+  height: 450px;
+}
+
 .hover { /* for IE using onmouseover and onmouseout */
 background: #d2d7ff;
 }

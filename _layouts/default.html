@@ -8,15 +8,14 @@
     <link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> 
     <base href="{{ site.url }}/" /> 
-    <title>I Open de Pedro Bernardo de Ala Delta</title>
+    <title>{{ page.title }} - I Open de Pedro Bernardo de Ala Delta</title>
     <!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     <link rel="stylesheet" type="text/css" href="styles/inspired_by_bundler_inspired.css" />
     <!--[if IE 6]>
       <link rel="stylesheet" type="text/css" href="styles/ie6.css" />
     <![endif]-->
 </head>
-<body>
-
+{% if page.body_class %}<body class="{{ page.body_class }}">{% else %}<body>{% endif %}
 <header>
 
     <h1>I Open de Ala Delta de Pedro Bernardo</h1>
@@ -28,6 +27,7 @@
         <li><a href="reglamento.html">Reglamento</a></li>
         <li><a href="inscripcion.html">Inscripción</a></li>
         <li><a href="pilotos.html">Pilotos</a></li>
+        <li><a href="balizas.html">Balizas</a></li>
         <li><a href="clasificacion.html">Clasificación</a></li>
       </ul>
     </nav>

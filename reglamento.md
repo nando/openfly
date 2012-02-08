@@ -14,3 +14,5 @@
 * **El transporte de alas y la recogida corresponde a los propios participantes**; si necesitáis conductores, desde la organización os los podemos proporcionar con un precio razonable por sus servicios.
 
 * [Reglamento del I Open de Pedro Bernardo de Ala Delta](downloads/Reglamento_I_Open_de_Ala_Delta_de_Pedro_Bernardo.pdf "Reglamento del Open de Pedro Bernardo en formato PDF").
+
+* Para cualquier duda o sugerencia podéis utilizar el correo electrónico <strong>opendeltietar@googlegroups.com</strong>.
