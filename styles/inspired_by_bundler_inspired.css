@@ -39,10 +39,9 @@ header h2{
 }
 nav{
   background:url("../images/section_bg.png");
-  font-size:85%;
+  font-size:95%;
   position:fixed;
   left:15px;
-  padding:0 15px 0 0;
   top:159px;
   height:50px;
   height:auto;
@@ -52,8 +51,22 @@ nav{
 }
 nav ul{
   list-style:none;
-  padding-left:18px;
-  margin-left:0px;
+  padding-left:0px;
+}
+nav li a{
+  padding:0 19px 0 18px;
+  font-weight: normal;
+  display: block;
+}
+nav li.active {
+  background:url("../images/section_bg.png");
+}
+nav li.active a {
+  font-weight: bold;
+}
+nav li a:hover {
+  background:url("../images/section_bg.png");
+  border-bottom:0;
 }
 div.article {
   background:url("../images/section_bg.png");
@@ -157,6 +170,7 @@ body.balizas div.article {
   width:90%;
 }
 #map {
+  border:1px grey solid;
   height: 450px;
 }
 

@@ -1,6 +1,7 @@
 ---
   layout: default
   title: Notas y Reglamento
+  section: reglamento
 ---
 
 ## Notas y Reglamento
