@@ -1,9 +1,9 @@
 ---
-layout: default
-title: Presentación
+layout: post
+title: Prueba de post
 ---
 
-# {{ page.title }}
+## {{ page.title }}
 
 
 [1ª Manga](/mangas/1.html)
