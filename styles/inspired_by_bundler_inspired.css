@@ -178,6 +178,20 @@ a.dsq-brlink {
   font-size: 10px;
 }
 
+article a.img {
+  border-bottom:0px;
+}
+
+article a.img img.left {
+  border:1px black solid;
+  margin-right: 20px;
+  float: left;
+}
+article a.img img.right {
+  border:1px black solid;
+  margin-left: 20px;
+  float: right;
+}
 
 .hover { /* for IE using onmouseover and onmouseout */
 background: #d2d7ff;
