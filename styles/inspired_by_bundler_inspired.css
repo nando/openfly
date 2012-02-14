@@ -1,5 +1,5 @@
 body{
-  background:#D6F7EC;
+  background:#FAFAFC;
   background-attachment: fixed;
   background-image: url("../images/pb_background.jpg");
   color:#043042;
@@ -52,6 +52,7 @@ nav{
 nav ul{
   list-style:none;
   padding-left:0px;
+  margin-left:0px;
 }
 nav li a{
   padding:0 19px 0 18px;
@@ -178,19 +179,27 @@ a.dsq-brlink {
   font-size: 10px;
 }
 
-article a.img {
+article a.media {
   border-bottom:0px;
 }
 
-article a.img img.left {
+article img.left {
   border:1px black solid;
-  margin-right: 20px;
+  margin: 10px 35px 10px 0px;
   float: left;
+  display: block;
 }
-article a.img img.right {
+article img.right {
   border:1px black solid;
-  margin-left: 20px;
+  margin: 10px 0px 10px 20px;
   float: right;
+}
+
+article ul {
+  padding-left: 10px;
+}
+article li {
+  padding-top: 10px;
 }
 
 .hover { /* for IE using onmouseover and onmouseout */
