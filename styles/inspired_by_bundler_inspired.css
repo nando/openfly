@@ -69,6 +69,10 @@ nav li a:hover {
   background:url("../images/section_bg.png");
   border-bottom:0;
 }
+div.centered {
+  text-align: center;
+  margin: 10px;
+}
 div.article {
   background:url("../images/section_bg.png");
   padding:10px 20px 30px 30px;
@@ -80,6 +84,11 @@ div.article {
 section h2 {
   border-bottom:2px black solid;
   padding-bottom:5px
+}
+span.date {
+  float: right;
+  font-weight: normal;
+  color: #D1DDFF;
 }
 fieldset {
   padding: 0px 16px 20px 16px;
