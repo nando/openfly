@@ -3,12 +3,13 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="description" content="Sitio web del I Open de Ala Delta de Pedro Bernardo, Ávila (España)">
+    <meta name="description" content="{{site.description}}">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> 
     <base href="{{ site.url }}/" /> 
-    <title>{{ page.title }} - I Open de Ala Delta de Pedro Bernardo</title>
+    <title>{{ page.title }} - I {site.root_desc}</title>
+    <link rel="alternate" type="application/atom+xml" title="Feed del {{site.root_desc}}" href="{{site.url}}/index.xml" />
     <!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     <link rel="stylesheet" type="text/css" href="styles/inspired_by_bundler_inspired.css" />
     <!--[if IE 6]>
@@ -17,7 +18,7 @@
 </head>
 {% if page.section %}<body class="{{ page.section }}">{% else %}<body>{% endif %}
 <header>
-    <h1>I Open de Ala Delta de Pedro Bernardo</h1>
+    <h1>I {{site.root_desc}}</h1>
     <h2>28 de Abril - 1 de Mayo de 2012</h2>
     <img class="logo" src="images/logo.png"/>
     <nav>

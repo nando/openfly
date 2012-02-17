@@ -8,7 +8,7 @@ layout: nil
 <link type="text" href="{{site.url}}" rel="alternate"/>
 <id>{{site.url}}</id>
 <author>
-<name>Open de Ala Delta de Pedro Bernardo</name>
+<name>{{site.root_desc}}</name>
 </author>
 
 {% for post in site.posts limit:20 %}

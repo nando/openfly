@@ -1,3 +1,5 @@
+root_desc: Open de Ala Delta de Pedro Bernardo
+description: Página del Open de Ala Delta de Pedro Bernardo (Ávila)
 server: true
 auto: true
 destination: _site/open
