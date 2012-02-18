@@ -11,7 +11,7 @@ Hola a todo el mundo desde Pedro Bernardo, un fantástico lugar para la práctic
 
 Os invitamos a venir a participar en el **I Open de Ala Delta de Pedro Bernardo** que se celebrará los días 28, 29, 30 de Abril y 1 de Mayo.
 
-Esperamos veros en estas fechas por Pedro Bernardo y compartir con todos vosotros las magníficas condiciones para el vuelo libre que se dan en este lugar, con buenas y bonitas pruebas que nos hagan disfrutar de grandes vuelos.
+Esperamos veros en estas fechas por Pedro Bernardo y compartir con todos vosotros las **magníficas condiciones para el vuelo libre** que se dan en este lugar, con buenas y bonitas pruebas que nos hagan disfrutar de grandes vuelos.
 
 Contamos con  la participación de todos los pilotos que deseen disfrutar en este Open de Ala Delta y para ello tenemos únicamente dos categorías:
 
