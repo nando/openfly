@@ -1,0 +1,22 @@
+#!/bin/bash
+
+echo
+echo '1 ==> git commit -a -m "'$1'"'
+git commit -a -m "$1"
+
+echo
+echo '2 ==> jekyll --no-server --no-auto'
+jekyll --no-server --no-auto
+
+echo
+echo '3 ==> cd _site; git add open'
+cd _site
+git add open
+
+echo
+echo '4 ==> git commit -a -m "'$1'"'
+git commit -a -m "$1"
+
+echo
+echo '5 ==> git deploy'
+git deploy

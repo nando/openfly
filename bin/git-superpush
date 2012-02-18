@@ -1,0 +1,8 @@
+#!/bin/bash
+echo '==> git push (jekyll)...'
+git push
+echo
+echo '==> cd _site'
+cd _site
+echo '==> git push (_site)...'
+git push
