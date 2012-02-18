@@ -6,7 +6,7 @@
 
 ## Reglamento y notas
 
-En [este enlace](downloads/Reglamento_I_Open_de_Ala_Delta_de_Pedro_Bernardo.pdf "Reglamento del Open de Pedro Bernardo en formato PDF") tenéis a vuestra disposición el [Reglamento del I Open de Pedro Bernardo de Ala Delta](downloads/Reglamento_I_Open_de_Ala_Delta_de_Pedro_Bernardo.pdf "Reglamento del Open de Pedro Bernardo en formato PDF"). Como resumen introductorio extraemos del mismo las siguientes notas:
+En [este enlace](downloads/Reglamento_I_Open_de_Ala_Delta_de_Pedro_Bernardo.pdf "Reglamento del Open de Pedro Bernardo en formato PDF") tenéis a vuestra disposición el [Reglamento del I Open de Pedro Bernardo de Ala Delta](downloads/Reglamento_I_Open_de_Ala_Delta_de_Pedro_Bernardo.pdf "Reglamento del Open de Pedro Bernardo en formato PDF"). Como resumen del mismo extraemos las siguientes notas:
 
 <img class="left" src="images/pb_carlos.jpg" alt="Pedro Bernardo y Puerto del Pico"/>
 * Habrá una **cena inaugural** el Sábado día 28, y una **entrega de premios** el martes día 1 **con comida y bebida** a discreción.
