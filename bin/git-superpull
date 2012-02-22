@@ -1,0 +1,8 @@
+#!/bin/bash
+echo '==> git pull (jekyll)...'
+git pull
+echo
+echo '==> cd _site'
+cd _site
+echo '==> git pull (_site)...'
+git pull

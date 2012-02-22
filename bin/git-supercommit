@@ -16,7 +16,3 @@ git add open
 echo
 echo '4 ==> git commit -a -m "'$1'"'
 git commit -a -m "$1"
-
-echo
-echo '5 ==> git deploy'
-git deploy
