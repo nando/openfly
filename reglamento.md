@@ -15,7 +15,9 @@ En [este enlace](downloads/Reglamento_I_Open_de_Ala_Delta_de_Pedro_Bernardo.pdf 
 * **El transporte de alas y la recogida corresponde a los propios participantes**; si necesitáis conductores, desde la organización os los podemos proporcionar con un precio razonable por sus servicios (ver información de contacto en el [Reglamento](downloads/Reglamento_I_Open_de_Ala_Delta_de_Pedro_Bernardo.pdf "Reglamento del Open de Pedro Bernardo en formato PDF")).
 * La cuota de inscripción es de **30 €** que pueden ser abonados al formalizar la inscripción antes del campeonato (ver lugar y horario en el [Reglamento](downloads/Reglamento_I_Open_de_Ala_Delta_de_Pedro_Bernardo.pdf "Reglamento del Open de Pedro Bernardo en formato PDF")), o de forma anticipada haciendo una transferencia al siguente número de cuenta:
 
+<div class="account_wrapper">
 {% include account.html %}
+</div>
 
 * Si te apetece participar, por favor, mándanos cuanto antes tus datos por medio del [formulario de inscripción](inscripcion.html).
 * Para cualquier duda o sugerencia podéis utilizar el correo electrónico del foro que hemos habilidado para la prueba [opendeltietar@googlegroups.com](https://groups.google.com/group/opendeltietar?hl=es).
