@@ -40,10 +40,9 @@
         tbody.html('');
         for(var i=0;i<pilots.length;i++){
           if(pilots[i].glider_class == 0) sport++;
-          if(brands[pilots[i].brand] === undefined)
-            brands[pilots[i].brand] = 1;
-          else
-            brands[pilots[i].brand]++;
+          
+          ( brands[pilots[i].brand]++ || ( brands[pilots[i].brand] = 1) )
+          
           tbody.append('<tr class="class_'+pilots[i].glider_class+'">'+
                         '<td>'+pilots[i].name+" "+pilots[i].surname+"</td>"+
                         "<td>"+pilots[i].brand+' '+pilots[i].model+"</td>"+
