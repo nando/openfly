@@ -17,9 +17,8 @@ Esperamos ver-vos nestas datas por Pedro Bernardo e partilhar convosco as **magn
 Contamos com a participação de todos os pilotos que desejem disfrutar deste Open de Asa Delta e para isso temos unicamente duas classes:
 
 * **Open:** classificação aberta a todos os participantes; asas sem “kingpost”, rígidas (com uma correspondente penalização) e sport.
-
 * **Sport:** classificação para asas delta sport (com kingpost e, teoricamente, para pilotos menos experientes).
 
-Para podermos organizar o evento em condições aceitáveis estabelecemos um preço de [inscriçãode](inscripcion.html) **30€** (ver [Regulamento e Notas](regulamento.html)).
+Para podermos organizar o evento em condições aceitáveis estabelecemos um preço de [inscrição](inscripcion.html) **30€** (ver [Regulamento e Notas](regulamento.html)).
 
 **Um abraço a todos, vêmo-nos no ar.**
