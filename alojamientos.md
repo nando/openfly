@@ -1,6 +1,7 @@
 ---
   layout: default
   title: Alojamiento y conductores
+  section: alojamiento
 ---
   
 ## {{ page.title }}

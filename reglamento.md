@@ -4,7 +4,7 @@
   section: reglamento
 ---
 
-## Reglamento y notas
+<h2>Reglamento y notas <a href="regulamento.html">Regulamento e notas</a></h2>
 
 En [este enlace](downloads/Reglamento_I_Open_de_Ala_Delta_de_Pedro_Bernardo.pdf "Reglamento del Open de Pedro Bernardo en formato PDF") tenéis a vuestra disposición el [Reglamento del I Open de Pedro Bernardo de Ala Delta](downloads/Reglamento_I_Open_de_Ala_Delta_de_Pedro_Bernardo.pdf "Reglamento del Open de Pedro Bernardo en formato PDF").
 

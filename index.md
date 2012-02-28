@@ -4,7 +4,7 @@ title: Presentación
 section: presentacion
 ---
 
-## Presentación
+<h2>Presentación <a href="apresentacao.html">Apresentação</a></h2>
 
 <a class="media" target="_blank" href="https://picasaweb.google.com/102973229036192373723/Seleccion2011#5672390910445344370" title="Pedro Bernardo desde el giro (autor Günter Porath)"><img class="right" src="images/pb_gunter.jpg" alt="Pedro Bernardo desde el giro (autor Günter Porath)"/></a>
 Hola a todo el mundo desde Pedro Bernardo, un fantástico lugar para la práctica del vuelo libre situado en el Sistema Central de la Península Ibérica, en la cara sur de **La Sierra de Gredos** la cual se eleva sobre un precioso valle bañado por el río Tietar.

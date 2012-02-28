@@ -29,7 +29,7 @@
         <li{% if page.section == 'inscripcion' %} class="active"{% endif %}><a href="inscripcion.html">Inscripción</a></li>
         <li{% if page.section == 'pilotos' %} class="active"{% endif %}><a href="pilotos.html">Pilotos</a></li>
         <li{% if page.section == 'balizas' %} class="active"{% endif %}><a href="balizas.html">Balizas</a></li>
-        <li><a target="_blank" href="alojamientos.html">Alojamiento</a></li>
+        <li{% if page.section == 'alojamiento' %} class="active"{% endif %}><a href="alojamientos.html">Alojamiento</a></li>
         <li{% if page.section == 'mapa' %} class="active"{% endif %}><a href="mapa.html">Mapa</a></li>
         <li{% if page.section == 'archivo' %} class="active"{% endif %}><a href="archivo.html">Archivo</a></li>
       </ul>
