@@ -1,0 +1,51 @@
+﻿<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="description" content="{{site.description}}">
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+    
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> 
+    <base href="{{ site.url }}/" /> 
+    <title>{{ page.title }} - I Open de Asa Delta de Pedro Bernardo</title>
+    <link rel="alternate" type="application/atom+xml" title="Feed del {{site.root_desc}}" href="{{site.url}}/index.xml" />
+    <!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link rel="stylesheet" type="text/css" href="styles/inspired_by_bundler_inspired.css" />
+    <!--[if IE 6]>
+      <link rel="stylesheet" type="text/css" href="styles/ie6.css" />
+    <![endif]-->
+</head>
+{% if page.section %}<body class="{{ page.section }}">{% else %}<body>{% endif %}
+<header>
+    <h1>I Open de Asa Delta de Pedro Bernardo</h1>
+    <h2>28 de Abril - 1 de Maio de 2012</h2>
+    <img class="logo" src="images/logo.png"/>
+    <nav>
+      <ul>
+        <li{% if page.section == 'presentacion' %} class="active"{% endif %}><a href="apresentacao.html">Apresentação</a></li>
+        <li{% if page.section == 'reglamento' %} class="active"{% endif %}><a href="regulamento.html">Regulamento</a></li>
+        <li{% if page.section == 'inscripcion' %} class="active"{% endif %}><a href="inscripcion.html">Inscrição</a></li>
+        <li{% if page.section == 'pilotos' %} class="active"{% endif %}><a href="pilotos.html">Pilotos</a></li>
+        <li{% if page.section == 'balizas' %} class="active"{% endif %}><a href="balizas.html">Beacons</a></li>
+        <li{% if page.section == 'alojamiento' %} class="active"{% endif %}><a href="alojamientos.html">Alojamento</a></li>
+        <li{% if page.section == 'mapa' %} class="active"{% endif %}><a href="mapa.html">Mapa</a></li>
+        <li{% if page.section == 'archivo' %} class="active"{% endif %}><a href="archivo.html">Arqhivo</a></li>
+      </ul>
+    </nav>
+
+</header>
+
+<div class="article">
+<article role="main">
+<section>
+{{ content }}
+</section>
+</article>
+</div>
+<footer>
+Sitio hecho con <a href="https://github.com/mojombo/jekyll" title="Para la gestión de sus contenidos">Jekyll</a>, <a href="http://rubyonrails.org/" title="Para guardar y servir las inscripciones">RubyOnRails</a>, <a href="http://jquery.com/" title="Para tratar con JavaScript">jQuery</a>, <a href="http://www.jstween.org" title="Para la animación sorpresa">Tween</a> y <a href="http://disqus.com/" title="Para los comentarios">Disqus</a>
+</footer>
+</body>
+</html>
