@@ -9,13 +9,13 @@ layout: default
         <div class="clearer">&nbsp;</div>
         <div class="left">
         {% if page.previous.url %}
-          <a href="{{page.previous.url}}" title="{{page.previous.title}}">&laquo; anterior</a>
+          <a href="{{ site.url }}{{page.previous.url}}" title="{{page.previous.title}}">&laquo; anterior</a>
         {% endif %}
         </div>
 
         <div class="right">
         {% if page.next.url %}
-          <a href="{{page.next.url}}" title="{{page.next.title}}">siguiente &raquo; </a>
+          <a href="{{ site.url }}{{page.next.url}}" title="{{page.next.title}}">siguiente &raquo; </a>
         {% endif %}
         </div>
         <div class="clearer">&nbsp;</div>

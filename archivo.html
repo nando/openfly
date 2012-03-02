@@ -4,7 +4,7 @@ title: Archivo de noticias publicadas
 section: archivo
 ---
 
-  <h2>Archivo de noticias publicadas</h2>
+  <h2>{{page.title}}</h2>
   <ul>
     {% for post in site.posts %}
     <li><span>{{ post.date | date: "%d/%m/%Y" }}</span> &raquo; <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
