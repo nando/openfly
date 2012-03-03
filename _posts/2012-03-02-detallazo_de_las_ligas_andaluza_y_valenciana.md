@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Detallazo de las Ligas Andaluza y Valenciana
-section: noticias
 ---
 
-A medio día Juaki nos ha dado un alegrón a todos los que estamos colaborando con el Open cuando ha mandado este correo a [la lista de Ala Delta de Yahoo](http://es.groups.yahoo.com/group/ala_delta/):
+Esta tarde Juaki nos ha dado un alegrón a todos los que estamos colaborando con el Open cuando ha mandado este correo a [la lista de Ala Delta de Yahoo](http://es.groups.yahoo.com/group/ala_delta/):
 
 <div class="quote">
 <p>Estimados compañeros,</p>

@@ -24,6 +24,7 @@
     <img class="logo" src="images/logo.png"/>
     <nav>
       <ul>
+        <li{% if page.section == 'noticias' %} class="active"{% endif %}><a href="noticias.html">Noticias</a></li>
         <li{% if page.section == 'presentacion' %} class="active"{% endif %}><a href="{{ site.url }}">Presentación</a></li>
         <li{% if page.section == 'reglamento' %} class="active"{% endif %}><a href="reglamento.html">Reglamento</a></li>
         <li{% if page.section == 'inscripcion' %} class="active"{% endif %}><a href="inscripcion.html">Inscripción</a></li>

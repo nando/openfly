@@ -1,38 +1,6 @@
 ---
 layout: default
+section: noticias
 ---
-<div id="post">
-  <h2>{{ page.title }}
-  <span class="date">{{ page.date | date: "%d/%m/%Y" }}</span>
-  </h2>
-<div id="page-navigation">
-        <div class="clearer">&nbsp;</div>
-        <div class="left">
-        {% if page.previous.url %}
-          <a href="{{ site.url }}{{page.previous.url}}" title="{{page.previous.title}}">&laquo; anterior</a>
-        {% endif %}
-        </div>
 
-        <div class="right">
-        {% if page.next.url %}
-          <a href="{{ site.url }}{{page.next.url}}" title="{{page.next.title}}">siguiente &raquo; </a>
-        {% endif %}
-        </div>
-        <div class="clearer">&nbsp;</div>
-</div> 
-{{ content }}
-</div>
-{% include disqus.html %}
-
-
-<script src="javascript/jquery.min.js" type="text/javascript"></script>
-<script src="javascript/jquery.fitvids.js" type="text/javascript"></script>
-
-<script type="text/javascript" charset="utf-8">
-  $(function(){
-    
-    $("div.article").fitVids();
-    
-  })
-</script>
-
+  {% include post.html %}
