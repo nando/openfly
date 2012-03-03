@@ -34,8 +34,8 @@ Esta tarde Juaki nos ha dado un alegrón a todos los que estamos colaborando con
 </p>
 </div>
 
-Muchas gracias a todos por apoyar de esta forma nuestra iniciativa y sentimos las molestias que esta decisión pueda causar a algunos pilotos.
+Muchas gracias a todos los pilotos de ambas ligas por apoyar de esta forma nuestra iniciativa y sentimos las molestias que esta decisión pueda causarles.
 
 Y gracias en particular a Juaki por su confianza y colaboración desinteresada desde que comenzamos esta aventura.
 
-**¡Pedazo de Open!**
+Todo apunta a que este va a ser un gran encuentro de *volaores*... **¡peazo de Open!**
