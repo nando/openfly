@@ -22,20 +22,7 @@
     <h1>I {{site.root_desc}}</h1>
     <h2>28 de Abril - 1 de Mayo de 2012</h2>
     <img class="logo" src="images/logo.png"/>
-    <nav>
-      <ul>
-        <li{% if page.section == 'noticias' %} class="active"{% endif %}><a href="noticias.html">Noticias</a></li>
-        <li{% if page.section == 'presentacion' %} class="active"{% endif %}><a href="{{ site.url }}">Presentación</a></li>
-        <li{% if page.section == 'reglamento' %} class="active"{% endif %}><a href="reglamento.html">Reglamento</a></li>
-        <li{% if page.section == 'inscripcion' %} class="active"{% endif %}><a href="inscripcion.html">Inscripción</a></li>
-        <li{% if page.section == 'pilotos' %} class="active"{% endif %}><a href="pilotos.html">Pilotos</a></li>
-        <li{% if page.section == 'balizas' %} class="active"{% endif %}><a href="balizas.html">Balizas</a></li>
-        <li{% if page.section == 'alojamiento' %} class="active"{% endif %}><a href="alojamientos.html">Alojamiento</a></li>
-        <li{% if page.section == 'mapa' %} class="active"{% endif %}><a href="mapa.html">Mapa</a></li>
-        <li{% if page.section == 'archivo' %} class="active"{% endif %}><a href="archivo.html">Archivo</a></li>
-      </ul>
-    </nav>
-
+    {% include nav.html %}
 </header>
 
 <div class="article">
@@ -46,7 +33,8 @@
 </article>
 </div>
 <footer>
-Sitio hecho con <a href="https://github.com/mojombo/jekyll" title="Para la gestión de sus contenidos">Jekyll</a>, <a href="http://rubyonrails.org/" title="Para guardar y servir las inscripciones">RubyOnRails</a>, <a href="http://jquery.com/" title="Para tratar con JavaScript">jQuery</a>, <a href="http://www.jstween.org" title="Para la animación sorpresa">Tween</a> y <a href="http://disqus.com/" title="Para los comentarios">Disqus</a>
+  {% include nav.html %}
+  <p>Sitio hecho con <a href="https://github.com/mojombo/jekyll" title="Para la gestión de sus contenidos">Jekyll</a>, <a href="http://rubyonrails.org/" title="Para guardar y servir las inscripciones">RubyOnRails</a>, <a href="http://jquery.com/" title="Para tratar con JavaScript">jQuery</a>, <a href="http://www.jstween.org" title="Para la animación sorpresa">Tween</a> y <a href="http://disqus.com/" title="Para los comentarios">Disqus</a></p>
 </footer>
 </body>
 </html>
