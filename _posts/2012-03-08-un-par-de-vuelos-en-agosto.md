@@ -9,6 +9,6 @@ Carlos ha colgado un par de vuelos por la cuerda que no tienen desperdicio. En e
 </iframe>
 
 <div class="quote">
-<p>"Un par de vuelos por la montaña de de Pedro Bernardo, dos regalos de los muchos que el valle del Tietar nos hace a los voladores cada temporada."</p>
+<p>"Un par de vuelos por la montaña de Pedro Bernardo, dos regalos de los muchos que el valle del Tietar nos hace a los voladores cada temporada."</p>
 <p>CARLOS</p>
 </div>
