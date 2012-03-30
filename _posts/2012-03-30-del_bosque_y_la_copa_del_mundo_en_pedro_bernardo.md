@@ -11,7 +11,7 @@ Pues seguro que si lo intentamos hacer aposta no nos sale, pero cosas del azar, 
 
 Y **desde las 10 de la mañana hasta las 10 de la noche**, también en el Centro Cultural, **estará expuesta La Copa del Mundo** para que podamos verla e inmortalizarnos junto ella.
 
-Un motivo más para no perderse este primer Open, que a falta de cuatro semanas justas para su comienzo ya tiene [42 pilotos inscritos](pilotos.html) procedentes de muy diversos lugares... **¡os esperamos con La Copa!**
+Un motivo más para no perderse este primer Open, que a falta de cuatro semanas justas para su comienzo ya tiene [42 pilotos inscritos](pilotos.html) procedentes de muy diversos lugares... **¡os esperamos a todos con La Copa!**
 
 Vía [PBDigital](http://pbdigital.blogspot.com.es/2012/03/la-copa-del-mundo-en-pedro-bernardo.html)
 
