@@ -5,3 +5,4 @@ auto: true
 destination: _site/open
 url: http://clubdevuelopb.com/open
 exclude: bin
+paginate: 5

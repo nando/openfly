@@ -1,0 +1,22 @@
+---
+layout: default
+title: Últimas noticias
+section: noticias
+---
+
+{% for page in paginator.posts %}
+{% include index_post.html %}
+{% endfor %}
+
+<a href="archivo.html">Ir al archivo de noticias</a>
+
+<script src="javascript/jquery.min.js" type="text/javascript"></script>
+<script src="javascript/jquery.fitvids.js" type="text/javascript"></script>
+
+<script type="text/javascript" charset="utf-8">
+  $(function(){
+    
+    $("div.article").fitVids();
+    
+  })
+</script>

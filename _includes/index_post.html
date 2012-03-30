@@ -1,0 +1,7 @@
+<div id="post-{{ page.id }}" class="post">
+  <h2>{{ page.title }}
+  <span class="date">{{ page.date | date: "%d/%m/%Y" }}</span>
+  </h2>
+  {{ page.content }}
+  <a class="do_comment" href="{{ page.url }}#comments">Comentar noticia</a>
+</div>
