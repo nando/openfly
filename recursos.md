@@ -9,8 +9,8 @@ title: Recursos
 ### Openflydb
 
 * Site: [http://morning-planet-6150.herokuapp.com](http://morning-planet-6150.herokuapp.com)
-* [Registro de despegues](http://morning-planet-6150.herokuapp.com/pilots.pdf): 
-[http://morning-planet-6150.herokuapp.com/pilots.pdf](http://morning-planet-6150.herokuapp.com/pilots.pdf)
+* [Solicitud de Inscripción](http://morning-planet-6150.herokuapp.com/pilots/new.pdf): [http://morning-planet-6150.herokuapp.com/pilots/new.pdf](http://morning-planet-6150.herokuapp.com/pilots/new.pdf)
+* [Registro de Despegues](http://morning-planet-6150.herokuapp.com/pilots.pdf): [http://morning-planet-6150.herokuapp.com/pilots.pdf](http://morning-planet-6150.herokuapp.com/pilots.pdf)
 * Repo en Heroku: git@heroku.com:morning-planet-6150.git
 * Repo en Github: git@github.com:nando/openflydb.git
 
