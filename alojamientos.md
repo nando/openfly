@@ -12,5 +12,4 @@
 
   En la zona existen multitud de casas rurales y campings. La mayor parte de la oferta existente en **Pedro Bernardo** la podéis encontrar en <a target="_blank" href="http://clubdevuelopb.com/alojamiento.html">la página de <em>Alojamiento</em> del Club de Vuelo y Montaña</a>.
 
-  En **La Iglesuela** la casa rural <a href="http://www.lamarotera.com/">La Marotera</a> (situada junto a la campa de la foto) se ha comprometido a realizar descuentos a los pilotos durante los días del campeonato.
 <div class="clearer">&nbsp;</div>
