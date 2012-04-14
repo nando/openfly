@@ -9,6 +9,8 @@ Günter Porath está estos días por la zona poniendo en marcha su proyecto [Fly
 
 Después de una semana santa de malas condiciones, por fin el domingo pudimos despedirla volando con un día precioso de cúmulos sobre la cuerda, un techo de unos 2400, muy buena visibilidad, restos de nieve por las cumbres y el Valle en todo su esplendor agradeciendo las cuatro gotas caídas. Algo es algo.
 
+<div class="clearer">&nbsp;</div>
+
 El despegue estaba cambiante, tanto que [Günter llegó incluso a abortar su primer intento](http://vimeo.com/40015031). Pero finalmente todos salimos sin problemas. Aquí os dejamos los despegues de Julio, Juanma y Armando, que salieron tras la estela del alemán:
 
 <iframe src="http://player.vimeo.com/video/39982712?title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitAllowFullScreen="webkitAllowFullScreen" mozallowfullscreen="mozallowfullscreen" allowFullScreen="allowFullScreen">
