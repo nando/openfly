@@ -435,25 +435,30 @@ float:right;
 }
 div.fs_res table
 {
-  font-size: x-small;
   width: auto;
 }
 div.fs_res table.result_list
 {
-width: 100%;
+  font-size: x-small;
+  width: 100%;
+}
+div.competition table.result_list
+{
+  font-size: small;
+  width: 100%;
 }
 div.fs_res td
 {
-  background:#c2c7FF;
-  padding: 0px 3px;
+  background:#b5baFF;
+  padding: 2px 4px;
   nowrap:true;
   border-radius:3px;
   -moz-border-radius:3px;
 }
 div.fs_res th
 {
-  line-height:1.2em;
-  padding: 0px 3px;
+  line-height:1.3em;
+  padding: 2px 4px;
   text-align:center;
 }
 

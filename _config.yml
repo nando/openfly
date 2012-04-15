@@ -4,5 +4,5 @@ server: true
 auto: true
 destination: _site/open
 url: http://clubdevuelopb.com/open
-exclude: bin
+exclude: bin, fs_templates, tmp
 paginate: 4
