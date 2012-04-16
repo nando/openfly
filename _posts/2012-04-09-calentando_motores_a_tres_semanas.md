@@ -3,7 +3,7 @@ layout: post
 title: Calentando motores a tres semanas...
 ---
 
-<a href="http://www.ipernity.com/doc/68912/album/268762/show"><img class="left" title="Listos para despeguar" alt="Listos para despeguar" src="http://u1.ipernity.com/22/31/23/12523123.c5fb5994.560.jpg" height="420" width="560" /></a>
+<a href="http://www.ipernity.com/doc/68912/album/268762/show"><img class="left" title="Listos para despegar" alt="Listos para despegar" src="http://u1.ipernity.com/22/31/23/12523123.c5fb5994.560.jpg" height="420" width="560" /></a>
 
 Günter Porath está estos días por la zona poniendo en marcha su proyecto [FlyTietar](http://www.flytietar.com). La semana pasada disfrutó de dos grandes vuelos: [una triangulación por el Valle de 62km](http://xc.dhv.de/xc/modules/leonardo/index.php?name=leonardo&op=show_flight&flightID=316536) y [una escapadita de 86km hasta Villacastín](http://xc.dhv.de/xc/modules/leonardo/index.php?name=leonardo&op=show_flight&flightID=317323).
 
