@@ -173,8 +173,8 @@ layout: default
 title: <xsl:value-of select="$title"/>
 section: clasificacion
 ---
+		<h2><xsl:value-of select="$title"/></h2>
 		<div class="fs_res competition">
-			<h2><xsl:value-of select="$title"/></h2>
 			<div class="report_date">
 				<i>
 					Informe generado el: <xsl:value-of select="/Fs/FsCompetition/FsCompetitionResults[@top=$top_x_tasks]/@ts"/>
