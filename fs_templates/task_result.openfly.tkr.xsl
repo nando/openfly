@@ -510,10 +510,8 @@ layout: default
 title: Resultados de la <xsl:value-of select="$title"/>
 section: clasificacion
 ---
+<h2>{{ page.title }}</h2>
 <div class="fs_res">
-	<h2>{{ page.title }}</h2>
-	<xsl:if test="string-length($title) > 0">
-	</xsl:if>
 	<div class="report_date">
 	  <i>Informe generado el: <xsl:value-of select="/Fs/FsCompetition[1]/FsTaskResults/@ts"/></i>
 	</div>
