@@ -414,7 +414,7 @@
         <span class="pilot_id"><xsl:value-of select="@id"/></span>
 				<xsl:value-of select="$comp_pilot/@name"/>
 			</td>
-			<td>
+			<td class="glider">
 				<xsl:value-of select="$comp_pilot/@glider"/>
 			</td>
 			<!-- If Race or Elapsed time? -->
@@ -508,9 +508,8 @@
 
 	<!-- Main template. This is where it all starts. -->
 	<xsl:template match="/">---
-layout: default
+layout: results
 title: Resultados de la <xsl:value-of select="$title"/>
-section: clasificacion
 ---
 <h2>{{ page.title }}</h2>
 <div class="fs_res">
@@ -562,7 +561,7 @@ section: clasificacion
 <xsl:call-template name="turnpointlist"/>
 <xsl:if test="$no_of_startgates > 0">
 <br/>
-	<xsl:call-template name="FsStartGate_list"/>
+<p><xsl:call-template name="FsStartGate_list"/></p>
 </xsl:if>
 <br/>
 <!-- result list -->
