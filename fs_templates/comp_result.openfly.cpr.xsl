@@ -133,6 +133,7 @@
 				</xsl:call-template>
 			</td>
 			<td>
+        <span class="pilot_id"><xsl:value-of select="@id"/></span>
 				<xsl:value-of select="/Fs/FsCompetition/FsParticipants/FsParticipant[@id=$pilot_id]/@name"/>
 			</td>
 			<td style="text-align: center">

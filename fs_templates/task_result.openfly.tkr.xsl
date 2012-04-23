@@ -169,9 +169,7 @@
 					<xsl:if test="$penalty != 0 or $penalty_points != 0">
 						<tr>
 							<td>
-								<xsl:value-of select="$pilot_id"/>
-							</td>
-							<td>
+                <span class="pilot_id"><xsl:value-of select="@id"/></span>
 								<xsl:value-of select="//FsCompetition[1]/FsParticipants[1]/FsParticipant[@id=$pilot_id]/@name"/>
 							</td>
 							<td>
@@ -205,6 +203,7 @@
 					<xsl:if test="boolean($task/FsParticipants[1]/FsParticipant[@id=$pilot_id]) = false()">
 						<tr>
 							<td>
+                <span class="pilot_id"><xsl:value-of select="@id"/></span>
 								<xsl:value-of select="//FsCompetition[1]/FsParticipants[1]/FsParticipant[@id=$pilot_id]/@name"/>
 							</td>
 						</tr>
@@ -229,6 +228,7 @@
 					<xsl:if test="boolean(FsResult) = false()">
 						<tr>
 							<td>
+                <span class="pilot_id"><xsl:value-of select="@id"/></span>
 								<xsl:value-of select="//FsCompetition[1]/FsParticipants[1]/FsParticipant[@id=$pilot_id]/@name"/>
 							</td>
 						</tr>
@@ -256,6 +256,7 @@
 					<xsl:if test="$note != ''">
 						<tr>
 							<td>
+                <span class="pilot_id"><xsl:value-of select="@id"/></span>
 								<xsl:value-of select="//FsCompetition[1]/FsParticipants[1]/FsParticipant[@id=$pilot_id]/@name"/>
 							</td>
 							<td>
@@ -410,6 +411,7 @@
 				</xsl:call-template>
 			</td>
 			<td>
+        <span class="pilot_id"><xsl:value-of select="@id"/></span>
 				<xsl:value-of select="$comp_pilot/@name"/>
 			</td>
 			<td>
