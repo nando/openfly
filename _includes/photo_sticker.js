@@ -5,11 +5,11 @@
 
     function photo_sticker(td, image_url) {
       var show_photo = function(e) {
-                $("body").append("<div id='preview'><img src='"+ image_url +"' alt='Foto del piloto' /></div>"); 
-                $("#preview")
-                  .css("top",(e.pageY - xOffset) + "px")
-                  .css("left",(e.pageX + yOffset) + "px")
-                  .fadeIn("fast");            
+        $("body").append("<div id='preview'><img src='"+ image_url +"' alt='Foto del piloto' /></div>"); 
+        $("#preview")
+          .css("top",(e.pageY - xOffset) + "px")
+          .css("left",(e.pageX + yOffset) + "px")
+          .fadeIn("fast");            
       };
       var photo_handler = function(e) {
         $.ajax({
@@ -34,7 +34,7 @@
           }
         });
       };
-      td.bind('mouseenter', photo_handler);
+      $(td).bind('mouseenter', photo_handler);
     };
 
     $('div.article table tr td span.pilot_id').each(function(){
@@ -45,4 +45,4 @@
       photo_sticker(td, 'images/pilots/' + pilot_id + '.jpg'); 
       photo_sticker(td_glider, 'images/pilots/' + pilot_id + '_glider.jpg'); 
     }); 
-  })
+  });
