@@ -170,9 +170,8 @@
 	</xsl:template>
 
 	<xsl:template match="/">---
-layout: default
+layout: results
 title: <xsl:value-of select="$title"/>
-section: clasificacion
 ---
 		<h2><xsl:value-of select="$title"/></h2>
 		<div class="fs_res competition">
