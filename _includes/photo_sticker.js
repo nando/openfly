@@ -29,6 +29,7 @@
             td.hover(show_photo,
               function(){
                 preview.hide();            
+                preview_img.attr('src', spinner);
               }
             );
             td.mousemove(function(e){
