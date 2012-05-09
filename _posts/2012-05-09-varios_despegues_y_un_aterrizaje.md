@@ -3,7 +3,7 @@ layout: post
 title: Varios despegues y un aterrizaje del domingo 29
 ---
 
-El domingo 29 de abril varios pilotos volaron por libre. Gallo Quirico grabó algunos de los despegues, con pasadita de Blay Jr. incluída, y Ricardo Marques da Costa grabó un aterrizaje espectacular del mismo _"pájaro"_.
+El domingo 29 de abril varios pilotos volaron por libre. Gallo Quirico grabó algunos de los despegues, con pasadita de Blay Jr. incluída, y Ricardo Marques da Costa grabó un aterrizaje espectacular del mismo _"pajarraco"_.
 
 Los despegues con la pasadita cuando Eneko se disponía a salir:
 
