@@ -3,7 +3,7 @@ layout: post
 title: Agradecimientos&#58; Rosalina... ¡grande!
 ---
 
-<img class="left" src="images/rosalina_y_berli.jpg" alt="Rosalina protegiendo de la lluvia a Jesús"/>
+<img class="left" src="images/rosalina_y_berli.jpg" alt="Rosalina protegiendo de la lluvia a un piloto desesperado por volar" title="Rosalina protegiendo de la lluvia a un piloto desesperado por volar"/>
 
 Más allá de los que inicialmente nos implicamos como parte de la organización hay una serie de personas sin cuyo apoyo el Open no habría sido posible.
 
