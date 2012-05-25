@@ -15,6 +15,6 @@ Ya metidos en el Open estuvo al pie del cañón encargándose todas las mañanas
 
 Para la carga de las balizas y otros temas relacionados con los aparatos de navegación en todo momento estuvo dispuesto a _"echar un cable"_ a quien lo necesitase, siendo fundamental para la buena marcha del Open, ya que en estos menesteres un servidor (Nando) todavía hace aguas. Y de igual forma el último día estuvo descargándose los tracks de varios pilotos y enseñándonos a meterlos correctamente en la aplicación que permite obtener las clasificaciones.
 
-Y lo mejor de todo, siempre con el optimismo y las ganas de volar y de sacar adelante una prueba como bandera. Era el último en descartar un día y eso que era tan consciente como cualquiera de los que allí estábamos de que las condiciones eran bastante malas para la práctica de nuestro deporte.
+Y lo mejor de todo, siempre con el optimismo y las ganas de volar y de sacar adelante una prueba como bandera. Era el último en descartar un día y eso que era tan consciente o más que cualquiera de los que allí estábamos de que las condiciones eran bastante complicadas para la práctica de nuestro deporte.
 
 Ha sido un gran honor y un verdadero lujo contar con tu ayuda... **¡gracias Juaki!**
