@@ -5,7 +5,7 @@ title: Agradecimientos&#58; Juaki... ¡maestro!
 
 <img class="right" src="images/juaki.jpg" alt="Foto de Juaki explicando algo a Julio" title="Juaki"/>
 
-Y qué podemos decir de Juaki sin quedarnos cortos. Es muy complicado.
+Y qué podemos decir de **Juaki** sin quedarnos cortos. Es muy complicado.
 
 Nos mostró su apoyo desde el principio, cuando el Open era sólo una idea que rondaba por nuestras cabezas, facilitándonos toda la información y documentos que él maneja desde hace años como organizador de este tipo de campeonatos.
 
