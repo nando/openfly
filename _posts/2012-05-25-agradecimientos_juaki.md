@@ -3,7 +3,7 @@ layout: post
 title: Agradecimientos&#58; Juaki... ¡maestro!
 ---
 
-<img class="right" src="images/juaki.jpg" alt="Foto de Juaki explicando algo a Julio" title="Juaki"/>
+<img class="right" src="images/juaki.jpg" alt="Foto de Juaki explicando algo a Julio" title="Juaki explicando"/>
 
 Y qué podemos decir de **Juaki** sin quedarnos cortos. Es muy complicado.
 
