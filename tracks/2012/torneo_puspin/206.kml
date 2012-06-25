@@ -4,278 +4,26 @@
   <Folder>
     <Metadata src="GpsDump" v="4.66" type="trip"/>
     <open>1</open>
-    <name>Trip</name>
-    <description><![CDATA[Tracklog from GpsDump competition mode
-<pre>
-Flight statistics
-Date                 2012-06-16
-Start/finish         12:22:05 - 15:10:07
-Duration             2 : 48 : 02
-Max./min. height     2236 / 633 m
-Max. mean/top speed  77 km/h / 86 km/h
-Max/min climb rate   2.68 / -3.58 m/s over 60s
-Total distance       125.58 km
-</pre>]]>
-    </description>
+    <name>Paco Ortuño Candela Track</name>
+    
 
-    <Placemark>
-      <Metadata src="GpsDump" v="4.66" type="distance_5_point">
-        <FsInfo track_idx="138 195 266 829 985" />
-      </Metadata>
-      <name>Distance over 5 points</name>
-      <description>
-        <![CDATA[
-<pre>
-Greatest distance using 5 points
+    
 
-Pos.      Time      Latitude         Longitude         Distance
- A   139  12:45:00  N 40  14  25.50  W 004  55  09.42
- B   196  12:54:31  N 40  16  16.26  W 004  54  27.24  3.56
- C   267  13:06:08  N 40  14  16.44  W 004  55  01.86  3.79
- D   830  14:40:02  N 40  21  51.24  W 004  37  36.48  28.39
- E   986  15:06:07  N 40  14  39.54  W 004  35  59.16  13.51
-                                                  Sum  49.25
-</pre>]]>
-      </description>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -4.919283,40.240417,1695
-          -4.907567,40.271183,1871
-          -4.917183,40.237900,1451
-          -4.626800,40.364233,2151
-          -4.599767,40.244317,888
-        </coordinates>
-      </LineString>
-      <Style>
-        <LineStyle>
-          <color>FFFF0000</color>
-        </LineStyle>
-      </Style>
-    </Placemark>
+    
 
-    <Placemark>
-      <Metadata src="GpsDump" v="4.66" type="distance_4_point">
-        <FsInfo track_idx="195 266 829 985" />
-      </Metadata>
-      <name>Distance over 4 points</name>
-      <description>
-        <![CDATA[
-<pre>
-Greatest distance using 4 points
+    
 
-Pos.      Time      Latitude         Longitude         Distance
- A   196  12:54:31  N 40  16  16.26  W 004  54  27.24
- B   267  13:06:08  N 40  14  16.44  W 004  55  01.86  3.79
- C   830  14:40:02  N 40  21  51.24  W 004  37  36.48  28.39
- D   986  15:06:07  N 40  14  39.54  W 004  35  59.16  13.51
-                                                  Sum  45.69
-</pre>]]>
-      </description>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -4.907567,40.271183,1871
-          -4.917183,40.237900,1451
-          -4.626800,40.364233,2151
-          -4.599767,40.244317,888
-        </coordinates>
-      </LineString>
-      <Style>
-        <LineStyle>
-          <color>FFFF0000</color>
-        </LineStyle>
-      </Style>
-    </Placemark>
+    
 
-    <Placemark>
-      <Metadata src="GpsDump" v="4.66" type="distance_3_point">
-        <FsInfo track_idx="137 829 985" />
-      </Metadata>
-      <name>Distance over 3 points</name>
-      <description>
-        <![CDATA[
-<pre>
-Greatest distance using 3 points
+    
 
-Pos.      Time      Latitude         Longitude         Distance
- A   138  12:44:49  N 40  14  27.24  W 004  55  16.14
- B   830  14:40:02  N 40  21  51.24  W 004  37  36.48  28.53
- C   986  15:06:07  N 40  14  39.54  W 004  35  59.16  13.51
-                                                  Sum  42.04
-</pre>]]>
-      </description>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -4.921150,40.240900,1701
-          -4.626800,40.364233,2151
-          -4.599767,40.244317,888
-        </coordinates>
-      </LineString>
-      <Style>
-        <LineStyle>
-          <color>FFFF0000</color>
-        </LineStyle>
-      </Style>
-    </Placemark>
+    
 
-    <Placemark>
-      <Metadata src="GpsDump" v="4.66" type="distance_open">
-        <FsInfo track_idx="137 832" />
-      </Metadata>
-      <name>Open distance</name>
-      <description>
-        <![CDATA[
-<pre>
-Greatest distance between any 2 points
-
-Pos.      Time      Latitude         Longitude         Distance
- A   138  12:44:49  N 40  14  27.24  W 004  55  16.14
- B   833  14:40:32  N 40  21  40.02  W 004  37  27.90  28.54
-</pre>]]>
-      </description>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -4.921150,40.240900,1701
-          -4.624417,40.361117,2122
-        </coordinates>
-      </LineString>
-      <Style>
-        <LineStyle>
-          <color>FF0000FF</color>
-        </LineStyle>
-      </Style>
-    </Placemark>
-
-    <Placemark>
-      <Metadata src="GpsDump" v="4.66" type="distance_out_and_return">
-        <FsInfo track_idx="196 266 408" />
-      </Metadata>
-      <name>Out-and-return distance</name>
-      <description>
-        <![CDATA[
-<pre>
-Out-and-return distance (max allowable gap 800)
-
-Pos.      Time      Latitude         Longitude         Distance
- A   197  12:54:41  N 40  16  15.84  W 004  54  32.22
- B   267  13:06:08  N 40  14  16.44  W 004  55  01.86  3.75
- C   409  13:29:53  N 40  16  14.04  W 004  54  41.52  0.23
-                                                  Sum  7.27
-</pre>]]>
-      </description>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -4.911533,40.270567,1738
-          -4.908950,40.271067,1872
-          -4.917183,40.237900,1451
-        </coordinates>
-      </LineString>
-      <Style>
-        <LineStyle>
-          <color>FFFF0000</color>
-        </LineStyle>
-      </Style>
-    </Placemark>
-
-    <Placemark>
-      <Metadata src="GpsDump" v="4.66" type="distance_flat_triangle">
-        <FsInfo track_idx="51 195 266 287 323" />
-      </Metadata>
-      <name>Flat triangle</name>
-      <description>
-        <![CDATA[
-<pre>
-Flat triangle (max allowable gap 800)
-
-Pos.      Time      Latitude         Longitude         Distance
- A    52  12:30:27  N 40  15  13.74  W 004  54  47.58
- B   196  12:54:31  N 40  16  16.26  W 004  54  27.24  3.79
- C   267  13:06:08  N 40  14  16.44  W 004  55  01.86  1.64
- D   288  13:09:39  N 40  14  51.66  W 004  54  10.02  2.64
- E   324  13:15:40  N 40  15  13.74  W 004  54  47.64  0.00
-                                                  Sum  8.06
-</pre>]]>
-      </description>
-      <MultiGeometry>
-        <LineString>
-          <tessellate>1</tessellate>
-          <coordinates>
-            -4.907567,40.271183,1871
-            -4.917183,40.237900,1451
-            -4.902783,40.247683,1313
-            -4.907567,40.271183,1871
-          </coordinates>
-        </LineString>
-        <LineString>
-          <tessellate>1</tessellate>
-          <coordinates>
-            -4.913217,40.253817,1336
-            -4.913233,40.253817,1617
-          </coordinates>
-        </LineString>
-      </MultiGeometry>
-      <Style>
-        <LineStyle>
-          <color>FFFF0000</color>
-        </LineStyle>
-      </Style>
-    </Placemark>
-
-    <Placemark>
-      <Metadata src="GpsDump" v="4.66" type="distance_fai_triangle">
-        <FsInfo track_idx="97 136 189 364 375" />
-      </Metadata>
-      <name>FAI triangle</name>
-      <description>
-        <![CDATA[
-<pre>
-FAI triangle (max allowable gap 800)
-
-Pos.      Time      Latitude         Longitude         Distance
- A    98  12:38:08  N 40  15  27.18  W 004  54  28.20
- B   137  12:44:39  N 40  14  31.62  W 004  55  16.14  3.09
- C   190  12:53:31  N 40  16  08.40  W 004  54  42.18  1.98
- D   365  13:22:31  N 40  15  09.54  W 004  54  08.64  1.98
- E   376  13:24:22  N 40  15  27.00  W 004  54  28.14  0.01
-                                                  Sum  7.04
-</pre>]]>
-      </description>
-      <MultiGeometry>
-        <LineString>
-          <tessellate>1</tessellate>
-          <coordinates>
-            -4.921150,40.242117,1705
-            -4.911717,40.269000,1783
-            -4.902400,40.252650,1571
-            -4.921150,40.242117,1705
-          </coordinates>
-        </LineString>
-        <LineString>
-          <tessellate>1</tessellate>
-          <coordinates>
-            -4.907833,40.257550,1799
-            -4.907817,40.257500,1596
-          </coordinates>
-        </LineString>
-      </MultiGeometry>
-      <Style>
-        <LineStyle>
-          <color>FFFF0000</color>
-        </LineStyle>
-      </Style>
-    </Placemark>
+    
 
     <Placemark>
       <Metadata src="GpsDump" v="4.66" type="track">
-        <FsInfo time_of_first_point="2012-06-16T12:22:05Z"
-                civl_pilot_id="9447" comp_pilot_id="206"
-                instrument="GALILEO SN02389 SW2.27"
-                downloaded="2012-06-16T19:43:38Z"
-                hash="50B1C85B3D5A4EC38CD28F8CB5A43BD1ADD83451">
+        <FsInfo time_of_first_point="2012-06-16T12:22:05Z" civl_pilot_id="9447" comp_pilot_id="206" instrument="GALILEO SN02389 SW2.27" downloaded="2012-06-16T19:43:38Z" hash="50B1C85B3D5A4EC38CD28F8CB5A43BD1ADD83451">
           <SecondsFromTimeOfFirstPoint>
 0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 161 171 181 191 201 211 221 231 241 
 251 261 271 281 291 301 302 312 322 332 342 352 362 372 382 392 402 412 422 432 442 452 462 472 482 
@@ -364,7 +112,7 @@ Pos.      Time      Latitude         Longitude         Distance
           </PressureAltitude>
         </FsInfo>
       </Metadata>
-      <name>Tracklog</name>
+      <name>Paco Ortuño Candela</name>
       <LineString>
         <altitudeMode>absolute</altitudeMode>
         <coordinates>
@@ -572,6 +320,24 @@ Pos.      Time      Latitude         Longitude         Distance
 -4.599150,40.246367,668 -4.599167,40.246367,657 -4.599183,40.246367,647 -4.599150,40.246300,640 -4.599150,40.246283,633
         </coordinates>
       </LineString>
-    </Placemark>
+    <description><![CDATA[Tracklog from GpsDump competition mode
+<pre>
+Flight statistics
+Date                 2012-06-16
+Start/finish         12:22:05 - 15:10:07
+Duration             2 : 48 : 02
+Max./min. height     2236 / 633 m
+Max. mean/top speed  77 km/h / 86 km/h
+Max/min climb rate   2.68 / -3.58 m/s over 60s
+Total distance       125.58 km
+</pre>]]>
+    </description>      <styleUrl>#track</styleUrl>
+</Placemark>
   </Folder>
+  <Style id="track">
+    <LineStyle>
+      <color>79845558</color>
+      <physicalWidth>1</physicalWidth>
+    </LineStyle>
+  </Style>
 </Document>

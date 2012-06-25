@@ -1,36 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-  <Style id="track">
-    <LineStyle>
-      <color>cc1FFF12</color>
-      <gx:physicalWidth>2</gx:physicalWidth>
-    </LineStyle>
-  </Style>
 <open>1</open>
   <Folder>
     <Metadata src="GpsDump" v="4.66" type="trip"/>
     <open>1</open>
-    <name>Trip</name>
-    <description><![CDATA[Tracklog from GpsDump competition mode
-<pre>
-Flight statistics
-Date                 2012-06-16
-Start/finish         12:44:39 - 15:05:45
-Duration             2 : 21 : 06
-Max./min. height     2252 / 635 m
-Max. mean/top speed  76 km/h / 81 km/h
-Max/min climb rate   3.05 / -2.67 m/s over 60s
-Total distance       107.47 km
-</pre>]]>
-    </description>
+    <name>Julio Sancho Morcillo Track</name>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
 
     <Placemark>
       <Metadata src="GpsDump" v="4.66" type="track">
-        <FsInfo time_of_first_point="2012-06-16T12:44:39Z"
-                civl_pilot_id="6804" comp_pilot_id="122"
-                instrument="IQ-BASIC"
-                downloaded="2012-06-17T19:37:13Z"
-                hash="539BB8FCD5BB4FCEA0E7A54381DD73F681202ABF">
+        <FsInfo time_of_first_point="2012-06-16T12:44:39Z" civl_pilot_id="6804" comp_pilot_id="122" instrument="IQ-BASIC" downloaded="2012-06-17T19:37:13Z" hash="539BB8FCD5BB4FCEA0E7A54381DD73F681202ABF">
           <SecondsFromTimeOfFirstPoint>
 0 22 30 60 90 120 150 180 210 228 234 240 246 252 258 264 270 276 282 288 294 300 306 312 318 
 324 330 336 342 348 354 360 366 372 378 384 390 396 402 408 414 420 426 432 438 444 450 456 462 468 
@@ -149,8 +142,7 @@ Total distance       107.47 km
           </PressureAltitude>
         </FsInfo>
       </Metadata>
-      <name>Julio Sancho</name>
-      <styleUrl>#track</styleUrl>
+      <name>Julio Sancho Morcillo</name>
       <LineString>
         <altitudeMode>absolute</altitudeMode>
         <coordinates>
@@ -435,6 +427,24 @@ Total distance       107.47 km
 -4.599300,40.234233,635 -4.599300,40.234233,635 -4.599300,40.234233,635 -4.599300,40.234233,635 -4.599300,40.234233,636
         </coordinates>
       </LineString>
-    </Placemark>
+    <description><![CDATA[Tracklog from GpsDump competition mode
+<pre>
+Flight statistics
+Date                 2012-06-16
+Start/finish         12:44:39 - 15:05:45
+Duration             2 : 21 : 06
+Max./min. height     2252 / 635 m
+Max. mean/top speed  76 km/h / 81 km/h
+Max/min climb rate   3.05 / -2.67 m/s over 60s
+Total distance       107.47 km
+</pre>]]>
+    </description>      <styleUrl>#track</styleUrl>
+</Placemark>
   </Folder>
+  <Style id="track">
+    <LineStyle>
+      <color>794e5f48</color>
+      <physicalWidth>1</physicalWidth>
+    </LineStyle>
+  </Style>
 </Document>

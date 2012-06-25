@@ -4,27 +4,26 @@
   <Folder>
     <Metadata src="GpsDump" v="4.66" type="trip"/>
     <open>1</open>
-    <name>Trip</name>
-    <description><![CDATA[Tracklog from GpsDump competition mode
-<pre>
-Flight statistics
-Date                 2012-06-16
-Start/finish         12:40:39 - 16:21:12
-Duration             3 : 40 : 33
-Max./min. height     2275 / 581 m
-Max. mean/top speed  93 km/h / 100 km/h
-Max/min climb rate   3.20 / -3.05 m/s over 60s
-Total distance       183.11 km
-</pre>]]>
-    </description>
+    <name>Antonio (Lechón) Saez Medina Track</name>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
 
     <Placemark>
       <Metadata src="GpsDump" v="4.66" type="track">
-        <FsInfo time_of_first_point="2012-06-16T12:40:39Z"
-                civl_pilot_id="5854" comp_pilot_id="138"
-                instrument="GALILEO SN03018 SW2.22"
-                downloaded="2012-06-16T20:38:59Z"
-                hash="A647AD3E8260B4DE935205A1D022BA25C4352C60">
+        <FsInfo time_of_first_point="2012-06-16T12:40:39Z" civl_pilot_id="5854" comp_pilot_id="138" instrument="GALILEO SN03018 SW2.22" downloaded="2012-06-16T20:38:59Z" hash="A647AD3E8260B4DE935205A1D022BA25C4352C60">
           <SecondsFromTimeOfFirstPoint>
 0 10 20 30 40 50 60 65 66 76 86 96 106 116 126 136 146 156 166 176 186 196 206 216 226 
 236 246 256 266 276 286 296 306 317 327 337 347 357 367 377 387 397 407 417 427 437 447 457 467 477 
@@ -139,7 +138,7 @@ Total distance       183.11 km
           </PressureAltitude>
         </FsInfo>
       </Metadata>
-      <name>Antonio "Lechón"</name>
+      <name>Antonio (Lechón) Saez Medina</name>
       <LineString>
         <altitudeMode>absolute</altitudeMode>
         <coordinates>
@@ -411,6 +410,24 @@ Total distance       183.11 km
 -4.750417,40.230100,581
         </coordinates>
       </LineString>
-    </Placemark>
+    <description><![CDATA[Tracklog from GpsDump competition mode
+<pre>
+Flight statistics
+Date                 2012-06-16
+Start/finish         12:40:39 - 16:21:12
+Duration             3 : 40 : 33
+Max./min. height     2275 / 581 m
+Max. mean/top speed  93 km/h / 100 km/h
+Max/min climb rate   3.20 / -3.05 m/s over 60s
+Total distance       183.11 km
+</pre>]]>
+    </description>      <styleUrl>#track</styleUrl>
+</Placemark>
   </Folder>
+  <Style id="track">
+    <LineStyle>
+      <color>7958a688</color>
+      <physicalWidth>1</physicalWidth>
+    </LineStyle>
+  </Style>
 </Document>
