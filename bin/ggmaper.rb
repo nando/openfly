@@ -30,7 +30,7 @@ contains = Dir.new(basedir).entries.each do |filename|
     doc.xpath('//Document').first.add_child <<-STYLE
   <Style id="track">
     <LineStyle>
-      <color>bb#{sprintf("%06x", pid.to_i*41000)}</color>
+      <color>ee#{sprintf("%06x", pid.to_i*41000)}</color>
       <gx:physicalWidth>1</gx:physicalWidth>
     </LineStyle>
   </Style>

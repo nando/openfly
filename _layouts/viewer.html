@@ -44,6 +44,9 @@
       var ctaLayer1 = new google.maps.KmlLayer(tracks_base + '4.kml');
       var ctaLayer2 = new google.maps.KmlLayer(tracks_base + '122.kml');
       var ctaLayer3 = new google.maps.KmlLayer(tracks_base + '121.kml');
+      $('#pilot_1').parent().css('background', '#a08002');
+      $('#pilot_2').parent().css('background', '#10534c');
+      $('#pilot_3').parent().css('background', '#e8b24b');
       ctaLayer3.setMap(map);
       ctaLayer2.setMap(map);
       ctaLayer1.setMap(map);
@@ -51,7 +54,7 @@
       $('#pilot_1').change(function(){
         var color = sprintf("%06x", parseInt($(this).val()) * 41000);
         var kml_color = color.substr(4,2) + color.substr(2,2) + color.substr(0,2);
-        $(this).prev('label').css('color', '#' + kml_color);
+        $(this).parent().css('background', '#' + kml_color);
         ctaLayer1.setMap(null);
         ctaLayer1 = new google.maps.KmlLayer(tracks_base+$(this).val()+'.kml');
         ctaLayer1.setMap(map);
@@ -60,7 +63,7 @@
       $('#pilot_2').change(function(){
         var color = sprintf("%06x", parseInt($(this).val()) * 41000);
         var kml_color = color.substr(4,2) + color.substr(2,2) + color.substr(0,2);
-        $(this).prev('label').css('color', '#' + kml_color);
+        $(this).parent().css('background', '#' + kml_color);
         ctaLayer2.setMap(null);
         ctaLayer2 = new google.maps.KmlLayer(tracks_base+$(this).val()+'.kml');
         ctaLayer2.setMap(map);
@@ -68,7 +71,7 @@
       $('#pilot_3').change(function(){
         var color = sprintf("%06x", parseInt($(this).val()) * 41000);
         var kml_color = color.substr(4,2) + color.substr(2,2) + color.substr(0,2);
-        $(this).prev('label').css('color', '#' + kml_color);
+        $(this).parent().css('background', '#' + kml_color);
         ctaLayer3.setMap(null);
         ctaLayer3 = new google.maps.KmlLayer(tracks_base+$(this).val()+'.kml');
         ctaLayer3.setMap(map);
