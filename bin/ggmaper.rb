@@ -12,11 +12,22 @@ basedir = ARGV[0]
 destdir = ARGV[1]
 
 mkdir(destdir) rescue nil
+html = File.open("#{destdir}.html", 'w')
+task_name = destdir.split('_').map{|w|w.capitalize}.join(' ')
+html.write(<<HTML_HEADER)
+---
+  layout: viewer
+  title: Tracks #{task_name}
+---
 
+<script type="text/javascript">
+  var tracks_base = 'http://clubdevuelopb.com/open/tracks/2012/#{destdir}/',
+      pilots = {
+HTML_HEADER
 contains = Dir.new(basedir).entries.each do |filename|
   if filename =~ /(.*?)\..*\.(\d*)\.kml/i
     pname, pid = $1, $2
-    puts %!    <option value="#{pid}">#{pname}</option>!
+    html.write %!       #{pid}: "#{pname}",\n!
     source = File.open("#{basedir}/#{filename}")
     doc = Nokogiri::XML(source)
     placemarks = doc.xpath('//Placemark')
@@ -42,3 +53,11 @@ contains = Dir.new(basedir).entries.each do |filename|
     File.open("#{destdir}/#{pid}.kml", 'w') {|f| f.write(doc.to_xml) }
   end
 end
+html.write(<<HTML_FOOTER)
+      },
+      pilot_1 = ,
+      pilot_2 = ,
+      pilot_3 = ;
+</script>
+HTML_FOOTER
+html.close
