@@ -3,7 +3,7 @@ layout: post
 title: Vídeo y tracks del Nicopress Xpress
 ---
 
-El pasado sábado éramos poquitos en el despegue y la mitad habíamos subido un poco tarde, pero aún así nos pusimos una pruebapara celebrar el Nicopress Xpress (prestigiosa prueba del Tiétar en la que el ganador es obsequiado con una revisión rápida de sus nicopresses):
+El pasado sábado éramos poquitos en el despegue y la mitad habíamos subido un poco tarde, pero aún así nos pusimos una prueba para celebrar el Nicopress Xpress, prestigiosa prueba del Tiétar en la que el ganador es obsequiado con una revisión rápida de sus nicopresses... :-)
 
 - Start en el campo de fútbol (como viene siendo habitual),
 - La Excusa (vértice geodésico),
