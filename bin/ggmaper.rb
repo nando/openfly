@@ -42,7 +42,7 @@ contains = Dir.new(basedir).entries.each do |filename|
   <Style id="track">
     <LineStyle>
       <color>ee#{sprintf("%06x", pid.to_i*41000)}</color>
-      <width>1</width>
+      <width>2</width>
     </LineStyle>
   </Style>
   STYLE
