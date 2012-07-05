@@ -24,6 +24,7 @@ html.write(<<HTML_HEADER)
   var tracks_base = 'http://clubdevuelopb.com/open/tracks/2012/#{destdir}/',
       pilots = {
 HTML_HEADER
+kolor_factor = (16777215.0 / Dir.new(basedir).entries.map{|e| (e =~ /(.*?)\..*\.(\d*)\.kml/i ? $2 : 0).to_i}.max).to_i
 contains = Dir.new(basedir).entries.each do |filename|
   if filename =~ /(.*?)\..*\.(\d*)\.kml/i
     pname, pid = $1, $2
@@ -41,7 +42,7 @@ contains = Dir.new(basedir).entries.each do |filename|
     doc.xpath('//Document').first.add_child <<-STYLE
   <Style id="track">
     <LineStyle>
-      <color>ee#{sprintf("%06x", pid.to_i*41000)}</color>
+      <color>ee#{sprintf("%06x", pid.to_i*kolor_factor)}</color>
       <width>2</width>
     </LineStyle>
   </Style>
@@ -58,6 +59,11 @@ html.write(<<HTML_FOOTER)
       pilot_1 = ,
       pilot_2 = ,
       pilot_3 = ;
+
+      function kml_color(pilot_id) {
+        var color = sprintf("%06x", parseInt(pilot_id) * #{kolor_factor});
+        return('#' + color.substr(4,2) + color.substr(2,2) + color.substr(0,2));
+      }
 </script>
 HTML_FOOTER
 html.close
