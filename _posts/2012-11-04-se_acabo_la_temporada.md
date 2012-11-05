@@ -3,7 +3,7 @@ layout: post
 title: Se acabó la temporada 2012
 ---
 
-A no ser que nos sorprenda a todos la temporada en la que se celebró el primer Open está terminada. Aunque en líneas generales no ha sido una temporada especialmente buena, sin duda nos ha dejado muchos grandes días de vuelo, algunos de ellos de récord.
+A no ser que nos sorprenda a todos la temporada en la que se celebró el primer Open está terminada. Aunque en líneas generales no ha sido una temporada especialmente buena, sin duda nos ha dejado muchos grandes días de vuelo, algunos de ellos de auténtico récord.
 
 Como por ejemplo el jueves 19 de julio, que pudieron aprovechar Armando, Julio Sancho y Félix con vientos relativamente fuertes de suroeste y un techo en torno a los 4500 metros. Armando se fue hasta Santa María de Huerta en Zaragoza, completando un vuelo de más de 260km. [Julio aterrizó pasado El Escorial](http://www.paraglidingforum.com/leonardo/flight/637825), logrando alcanzar en el vértice geodésico de La Adrada los 5000m sobre el nivel del mar, alturón que no recuerdan ni los más ancianos de lugar. Y Félix se fue a San Martín y volvió hasta La Adrada donde aterrizó después de pasar mucho frío.
 
@@ -35,7 +35,7 @@ Y muchos otros grandes vuelos por el valle, algunos de los cuales poco a poco se
 * **Cumbres**: El Cabezo - Vértice - Piélago - La Abantera - Pedro Bernardo
 * **Cumbres+**: El Cabezo - Vértice - Piélago - La Abantera - La Iglesuela
 * **Cazastañas**: Vértice - Cazalegas - Ramacastañas - La Iglesuela
-* **Sevigredos**: Vértice - Sevilleja de la Jara - Candeleda - La Iglesuela (también conocido como "el triángulacode Guti"
+* **Sevigredos**: Vértice - Sevilleja de la Jara - Candeleda - La Iglesuela (también conocido como "el triángulaco de Guti"
 
 Como es habitual la mayoría de los vuelos han sido desde la oeste, [131 registrados ahora mismo en Leonardo](http://www.paraglidingforum.com/leonardo/tracks/ES/2012/brand:all,cat:2,class:all,xctype:all,club:all,pilot:0_0,takeoff:9010&sortOrder=FLIGHT_POINTS) (por la este [hay registrados 44 vuelos](http://www.paraglidingforum.com/leonardo/tracks/ES/2012/brand:all,cat:2,class:all,xctype:all,club:all,pilot:0_0,takeoff:13307&sortOrder=FLIGHT_POINTS), y [desde El Piélago sólo tres](http://www.paraglidingforum.com/leonardo/tracks/ES/2012/brand:all,cat:2,class:all,xctype:all,club:all,pilot:0_0,takeoff:13515)).
 
