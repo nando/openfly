@@ -9,7 +9,7 @@ title: Prueba del Cerito Rico
 
 El pasado domingo 23 hizo un día de mangas cortas en el despegue. Eso sí, estabilidad total y la capa de inversión en torno a los 1000 metros. Con ese panorama se estudió la posibilidad de poner una prueba en plan circuito urbano, que ahora están tan de moda, Iglesia-Mirador-Cuartel-Campa, por ejemplo. Pero al final decidimos hacer algo distinto: premio al que lograse engancharse más tiempo a un cero, y de premio el propio cero, que no es poco en estas fechas como se puede apreciar en la cara del vencedor de la prueba.
 
-Nos juntamos seis pilotos (Xavier, Raja, Julio, Armando, Lobo y Nando) y el ganador indiscutible fue Antonio Lobo, que despeguó el primero y aterrizó el penúltimo, aguantando durante varios minutos sin perder altura, sólo él sabe cómo.
+Nos juntamos seis pilotos (Xavier, Raja, Julio, Armando, Lobo y Nando) que subimos en dos furgos, la de Lobo y la de Rafa, con Rosalina y Andrés en sus volantes (¡gracias!). El ganador indiscutible fue Antonio Lobo, que despeguó el primero y aterrizó el penúltimo, aguantando durante varios minutos sin perder altura, sólo él sabe cómo. :)
 
 Aquí tenéis los enlaces a lo que nos dejó, entre otras cosas, ese agradable día en el Tiétar:
 
