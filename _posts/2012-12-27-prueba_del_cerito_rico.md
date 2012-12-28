@@ -7,7 +7,9 @@ title: Prueba del Cerito Rico
 
 ¿Qué mejor forma de despedir el año y sacudirnos el monazo que con un despegue y un aterrizaje? Y si durante es descenso se nos cruza alguna termiquilla despistada pues eso que nos llevamos.
 
-El pasado domingo 23 hizo un día de mangas cortas en el despegue. Eso sí, estabilidad total y la capa de inversión en torno a los 1000 metros. Con ese panorama se estudió la posibilidad de poner una prueba en plan circuito urbano, que ahora están tan de moda, Iglesia-Mirador-Cuartel-Campa, por ejemplo. Pero al final decidimos hacer algo distinto: premio al que lograse engancharse más tiempo a un cero, y de premio el propio cero, que no es poco en estas fechas como se puede apreciar en la cara del vencedor de la prueba.
+El pasado domingo 23 hizo un día "de manga corta" en el despegue, tanto por la temperatura ambiente como por la distancia entre las balizas de la prueba. Solazo con estabilidad total y la capa de inversión por debajo del despegue subiendo desde los 1000 metros más o menos.
+
+Con ese panorama se estudió la posibilidad de poner una prueba en plan circuito urbano, que ahora están tan de moda, Iglesia-Mirador-Cuartel-Campa, por ejemplo. Pero al final decidimos hacer algo distinto: premio al que lograse engancharse más tiempo a un cero, y de premio el propio cero, que no es poco en estas fechas como se puede apreciar en la cara del vencedor de la prueba.
 
 Nos juntamos seis pilotos (Xavier, Raja, Julio, Armando, Lobo y Nando) que subimos en dos furgos, la de Lobo y la de Rafa, con Rosalina y Andrés en sus volantes (¡gracias!). El ganador indiscutible fue Antonio Lobo, que despeguó el primero y aterrizó el penúltimo, aguantando durante varios minutos sin perder altura, sólo él sabe cómo. :)
 
