@@ -15,7 +15,7 @@ Esperamos veros en estas fechas por Pedro Bernardo y compartir con todos vosotro
 
 Contamos con  la participación de todos los pilotos que deseen disfrutar en este Open de Ala Delta y para ello tenemos únicamente dos categorías:
 
-* **Open**: clasificación abierta a todas los participantes; calvas, rígidas (con su correspondiente penalización) y sport.
+* **Open**: clasificación abierta a todos los participantes; calvas, rígidas (con su correspondiente penalización) y sport.
 
 * **Sport**: clasificación para alas delta sport (con mástil y, en teoría, pilotos menos expertos)
 
