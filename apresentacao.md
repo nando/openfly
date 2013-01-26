@@ -4,7 +4,7 @@ title: Apresentação
 section: presentacion
 ---
 
-<h2>Apresentação <a href="index.html">Presentación</a></h2>
+<h2>Apresentação <a href="presentacion.html">Presentación</a></h2>
 
 <a class="media" target="_blank" href="https://picasaweb.google.com/102973229036192373723/Seleccion2011#5672390910445344370" title="Pedro Bernardo desde el giro (autor Günter Porath)"><img class="right" src="images/pb_gunter.jpg" alt="Pedro Bernardo desde el giro (autor Günter Porath)"/></a>
 
