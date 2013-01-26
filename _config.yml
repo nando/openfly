@@ -3,6 +3,6 @@ description: Página del Open de Ala Delta de Pedro Bernardo (Ávila)
 server: true
 auto: true
 destination: _site/open
-url: http://opendepb.com/2012
+url: http://opendepb.com/I
 exclude: bin, fs_templates, tmp
 paginate: 4
