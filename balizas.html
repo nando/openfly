@@ -24,7 +24,7 @@
         mapTypeId: google.maps.MapTypeId.TERRAIN
       }
       var map = new google.maps.Map(document.getElementById('map'), myOptions);
-      var ctaLayer = new google.maps.KmlLayer('http://clubdevuelopb.com/open/downloads/Balizas_Open_Pedro_Bernardo.KML?nocache');
+      var ctaLayer = new google.maps.KmlLayer('{{site.url}}/downloads/Balizas_Open_Pedro_Bernardo.KML?nocache');
       ctaLayer.setMap(map);
     });
   </script>
