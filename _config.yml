@@ -4,5 +4,6 @@ server: true
 auto: true
 destination: _site/open
 url: http://primer.opendepb.com
+#url: http://localhost:4000
 exclude: bin, fs_templates, tmp
 paginate: 4

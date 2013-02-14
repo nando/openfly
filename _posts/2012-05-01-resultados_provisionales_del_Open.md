@@ -3,7 +3,7 @@ layout: post
 title: Resultados provisionales del Open
 ---
 
-<img class="left" src="images/breafing_martes.jpg" alt="Breafing del Martes 1 de Mayo" title="Breafing del Martes 1 de Mayo" />
+<img class="left" src="images/breafing_martes.jpg" alt="Breafing del Martes 1 de mayo" title="Breafing del Martes 1 de mayo" />
 
 Hemos publicado los [resultados provisionales](clasificacion_2012.html) del Open a falta de recibir los tracks del primer y tercer clasificado.
 
