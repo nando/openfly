@@ -1,7 +1,7 @@
 body{
-  background:#FAFAFC;
+  background:#dae1ff;
   background-attachment: fixed;
-  background-image: url("../images/pb_background.jpg");
+  background-image: url("../images/pb_background.jpg") no-repeat;
   color:#043042;
   font:16px Helvetica,Arial,sans-serif;
   line-height:1.6em;
