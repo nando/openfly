@@ -2,7 +2,6 @@ body{
   background:#FAFAFC;
   background-attachment: fixed;
   background-image: url("../images/pb_background.jpg");
-  background-repeat:repeat-x;
   color:#043042;
   font:16px Helvetica,Arial,sans-serif;
   line-height:1.6em;
